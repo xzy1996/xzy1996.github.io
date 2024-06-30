@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a Ph.D. candidate in Optical Engineering at the College of Advanced Interdisciplinary Studies, National University of Defense Technology. I was born in [Suining County](https://www.hnsn.gov.cn/hnsn/xzjsn/zjsn_newxx.shtml), Shaoyang City, Hunan Province, and grew up in [Loudi City](https://www.hnloudi.gov.cn/loudi/zjld/zjld.shtml), Hunan Province.
+Hello! I am a Ph.D. candidate in Optical Engineering at the College of Advanced Interdisciplinary Studies, [National University of Defense Technology](https://www.nudt.edu.cn/). I was born in [Suining County](https://www.hnsn.gov.cn/hnsn/xzjsn/zjsn_newxx.shtml), Shaoyang City, Hunan Province, and grew up in [Loudi City](https://www.hnloudi.gov.cn/loudi/zjld/zjld.shtml), Hunan Province.
 
 My research interests lie in the fields of [Laser Doppler Velocimetry](https://en.wikipedia.org/wiki/Laser_Doppler_velocimetry), [Inertial Navigation Technology](https://en.wikipedia.org/wiki/Inertial_navigation_system), and [Integrated Navigation Technology](https://link.springer.com/referenceworkentry/10.1007/978-981-10-6946-8_291).  I am passionate about exploring the applications of these technologies to advance the field of navigation.
 
