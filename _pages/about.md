@@ -7,7 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hello! I am a Ph.D. candidate in Optical Engineering at the College of Advanced Interdisciplinary Studies, National University of Defense Technology. I was born in Suining County, Shaoyang City, Hunan Province, and grew up in Loudi City, Hunan Province.
+
+My research interests lie in the fields of Laser Doppler Velocimeter (LDV), Inertial Navigation Technology, and Integrated Navigation Technology.  I am passionate about exploring the applications of these technologies to advance the field of navigation.
+
+Beyond my academic pursuits, I am an avid history and geography enthusiast, with a particular interest in Chinese history. I also enjoy gaming, with favorites including League of Legends, Naraka: Bladepoint, GTA V, Red Dead Redemption 2, The Witcher 3, Monster Hunter: World, and the Battlefield series. Additionally, I have spent over 200 hours playing Civilization VI and No Man’s Sky.
 
 A data-driven personal website
 ======
