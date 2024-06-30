@@ -26,8 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Student"
   location         : "Changsha, Hunan, China"
-  employer         : "National University of Defense 
-                      Technology"
+  employer         : "National University of Defense Technology"
   uri              : # URL
   email            : "xiangzhiyi0816@gmial.com" 
 
@@ -35,9 +34,9 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-1766-2409"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development
