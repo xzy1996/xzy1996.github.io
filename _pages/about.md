@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a Ph.D. candidate in Optical Engineering at the College of Advanced Interdisciplinary Studies, National University of Defense Technology. I was born in Suining County, Shaoyang City, Hunan Province, and grew up in Loudi City, Hunan Province.
+Hello! I am a Ph.D. candidate in Optical Engineering at the College of Advanced Interdisciplinary Studies, National University of Defense Technology. I was born in [Suining County](https://www.hnsn.gov.cn/hnsn/xzjsn/zjsn_newxx.shtml), Shaoyang City, Hunan Province, and grew up in [Loudi City](https://www.hnloudi.gov.cn/loudi/zjld/zjld.shtml), Hunan Province.
 
-My research interests lie in the fields of Laser Doppler Velocimeter (LDV), Inertial Navigation Technology, and Integrated Navigation Technology.  I am passionate about exploring the applications of these technologies to advance the field of navigation.
+My research interests lie in the fields of [Laser Doppler Velocimetry](https://en.wikipedia.org/wiki/Laser_Doppler_velocimetry), [Inertial Navigation Technology](https://en.wikipedia.org/wiki/Inertial_navigation_system), and [Integrated Navigation Technology](https://link.springer.com/referenceworkentry/10.1007/978-981-10-6946-8_291).  I am passionate about exploring the applications of these technologies to advance the field of navigation.
 
 Beyond my academic pursuits, I am an avid history and geography enthusiast, with a particular interest in Chinese history. I also enjoy gaming, with favorites including League of Legends, Naraka: Bladepoint, GTA V, Red Dead Redemption 2, The Witcher 3, Monster Hunter: World, and the Battlefield series. Additionally, I have spent over 200 hours playing Civilization VI and No Man’s Sky.
 
