@@ -22,13 +22,13 @@ repository               : "xzy1996/xzy1996.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Zhiyi Xiang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Ph.D. Student"
+  location         : "Changsha, Hunan, China"
+  employer         : "National University of Defense Technology"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "xiangzhiyi0816@gmial.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
