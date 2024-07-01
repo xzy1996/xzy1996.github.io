@@ -38,9 +38,11 @@ Beyond my academic pursuits, I am an avid history and geography enthusiast, with
 
 ***<font color="#006400">Zhiyi Xiang</font>****<font color="#006400">, Qi Wang, Rong Huang, Shilong Jin, Xiaoming Nie, Jian Zhou</font>*
 
-<a href="https://ieeexplore.ieee.org/document/10251461/" target="_blank">[ pdf ]{: .btn--research}</a>
+<a href="https://ieeexplore.ieee.org/document/10251461/" target="_blank">[ pdf ]</a>{: .btn--research}
 
 [pdf](https://ieeexplore.ieee.org/document/10251461/){: .btn--research}
+
+------
 
 
 
