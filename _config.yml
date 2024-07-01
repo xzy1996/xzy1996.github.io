@@ -38,7 +38,7 @@ author:
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Zhiyi-Xiang?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6ImhvbWUiLCJwcmV2aW91c1BhZ2UiOiJwcm9maWxlIiwicG9zaXRpb24iOiJnbG9iYWxIZWFkZXIifX0" # URL
-  webofscience     : "https://www.webofscience.com/wos/author/record/IAR-6029-2023" # URL
+  clarivate        : "https://www.webofscience.com/wos/author/record/IAR-6029-2023" # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
