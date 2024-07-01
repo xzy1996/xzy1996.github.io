@@ -35,6 +35,9 @@ Beyond my academic pursuits, I am an avid history and geography enthusiast, with
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIM</div><img src='images/TIM2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+[Online Calibration Method for Pitch-Independent Laser Doppler Velocimeter Based on Improved Integrated Navigation Model](https://ieeexplore.ieee.org/document/10251461/)
+**Zhiyi Xiang**, Qi Wang, Rong Huang, Shilong Jin, Xiaoming Nie, Jian Zhou
+
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
 1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
