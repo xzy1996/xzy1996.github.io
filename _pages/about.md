@@ -32,7 +32,7 @@ Beyond my academic pursuits, I am an avid history and geography enthusiast, with
 
 📝 Selected Publications 
 ======
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIM</div><img src='TIM2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIM</div><img src='images/TIM2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
