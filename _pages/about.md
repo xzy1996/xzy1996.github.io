@@ -25,7 +25,7 @@ Beyond my academic pursuits, I am an avid history and geography enthusiast, with
 - ***<font color="#4B0082">2021.11</font>***: &nbsp;🎉🎉 1 paper accepted by ***<font color="#A52A2A">Measurement Science and Technology</font>***.
 - ***<font color="#4B0082">2021.08</font>***: &nbsp;🎉🎉 1 paper accepted by ***<font color="#A52A2A">Applied Optics</font>***.
 
-# 🎖 Honors and Awards
+🎖 Honors and Awards
 ======
 - ***<font color="#4B0082">2024.06</font>***: &nbsp; IOP Trusted Reviewer status.
 - ***<font color="#4B0082">2019.06</font>***: &nbsp; Outstanding Graduate for Excellence in Both Character and Academics by Anhui Province (安徽省品学兼优毕业生).
