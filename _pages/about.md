@@ -35,8 +35,7 @@ Beyond my academic pursuits, I am an avid history and geography enthusiast, with
 <img align="left" src='images/TIM2023.png' width = "300px"/>
 
 **Online Calibration Method for Pitch-Independent Laser Doppler Velocimeter Based on Improved Integrated Navigation Model**  
-***<font color="#006400">Zhiyi Xiang</font>****<font color="#006400">, Qi Wang, Rong Huang, Shilong Jin, Xiaoming Nie, Jian Zhou</font>*
-<font style="background: #00008B" color="#FFFFFF">&nbsp;IEEE Transactions on Instrumentation and Measurement&nbsp;</font>
+***<font color="#006400">Zhiyi Xiang</font>****<font color="#006400">, Qi Wang, Rong Huang, Shilong Jin, Xiaoming Nie, Jian Zhou</font>*<font style="background: #00008B" color="#FFFFFF">&nbsp;IEEE Transactions on Instrumentation and Measurement&nbsp;</font>
 <a href="https://ieeexplore.ieee.org/document/10251461/" target="_blank">paper</a>{: .btn--research}
 
 ------
