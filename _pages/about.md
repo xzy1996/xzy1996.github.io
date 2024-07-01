@@ -30,13 +30,14 @@ Beyond my academic pursuits, I am an avid history and geography enthusiast, with
 - ***<font color="#4B0082">2024.06</font>***: &nbsp; IOP Trusted Reviewer status.
 - ***<font color="#4B0082">2019.06</font>***: &nbsp; Outstanding Graduate for Excellence in Both Character and Academics by Anhui Province (安徽省品学兼优毕业生).
 
-📝 Selected Publications 
+📝 Featured Publications 
 ======
-<img align="left" src='images/TIM2023.png' width = "200px" alt="TIM"/>
+<img align="left" src='images/TIM2023.png' width = "300px"/>
 
 [Online Calibration Method for Pitch-Independent Laser Doppler Velocimeter Based on Improved Integrated Navigation Model](https://ieeexplore.ieee.org/document/10251461/)
 
 **Zhiyi Xiang**, Qi Wang, Rong Huang, Shilong Jin, Xiaoming Nie, Jian Zhou
+
 
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
