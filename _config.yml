@@ -31,7 +31,8 @@ author:
   email            : "xiangzhiyi0816@gmial.com" 
 
   # Academic websites
-  arxiv            : "https://arxiv.org/user/" # URL - Update with the correct link to your profile
+  <a href="https://arxiv.org/user/" target="_blank">arxiv</a>
+  #arxiv            : "https://arxiv.org/user/" # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=cytaLGEAAAAJ&hl=zh-CN&oi=ao"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0003-1766-2409"
