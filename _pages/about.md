@@ -15,7 +15,7 @@ Beyond my academic pursuits, I am an avid history and geography enthusiast, with
 
 🔥 News
 ======
-- <font color="#F0F8FF" style="background: #ADFF2F">2021.08</font>: &nbsp;🎉🎉🎉 1 paper accepted by **Applied Optics**.
+- **<font color="#F0F8FF" style="background: #4B0082">2021.08</font>**: &nbsp;🎉🎉🎉 1 paper accepted by **Applied Optics**.
 
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the <a href="https://pages.github.com/" target="_blank">GitHub pages</a> service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
