@@ -32,10 +32,10 @@ Beyond my academic pursuits, I am an avid history and geography enthusiast, with
 
 📝 Selected Publications 
 ======
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIM</div><img src='images/TIM2023.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<img align="left" src='images/TIM2023.png' width = "200px" alt="TIM"/>
 
 [Online Calibration Method for Pitch-Independent Laser Doppler Velocimeter Based on Improved Integrated Navigation Model](https://ieeexplore.ieee.org/document/10251461/)
+
 **Zhiyi Xiang**, Qi Wang, Rong Huang, Shilong Jin, Xiaoming Nie, Jian Zhou
 
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
