@@ -36,7 +36,7 @@ Beyond my academic pursuits, I am an avid history and geography enthusiast, with
 
 [Online Calibration Method for Pitch-Independent Laser Doppler Velocimeter Based on Improved Integrated Navigation Model](https://ieeexplore.ieee.org/document/10251461/)
 
-**<font color="#006400">__Zhiyi Xiang__, Qi Wang, Rong Huang, Shilong Jin, Xiaoming Nie, Jian Zhou</font>**
+<font color="#006400">**Zhiyi Xiang**, Qi Wang, Rong Huang, Shilong Jin, Xiaoming Nie, Jian Zhou</font>
 
 
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
