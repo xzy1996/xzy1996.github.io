@@ -52,7 +52,16 @@ Beyond my academic pursuits, I am an avid history and geography enthusiast, with
 <a href="https://iopscience.iop.org/article/10.1088/1361-6501/acf2b4" target="_blank">paper</a>{: .btn--research}  
 
 ------
+<img align="left" src='images/IEEEsensors2022.png' width = "300px"/>  
+<font style="background: #1769FF" color="#FFFFFF">&nbsp;&nbsp;IEEE Sensors Journal&nbsp;&nbsp;</font>
+\
+**A Fast Robust In-Motion Alignment Method for Laser Doppler Velocimeter-Aided Strapdown Inertial Navigation System**  
 
+***<font color="#006400">Zhiyi Xiang</font>****<font color="#006400">, Qi Wang, Rong Huang, Shilong Jin, Xiaoming Nie, Jian Zhou<sup>*</sup></font>*  
+
+<a href="https://ieeexplore.ieee.org/document/9841423/" target="_blank">paper</a>{: .btn--research}  
+
+------
 
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
