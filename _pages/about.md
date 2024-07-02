@@ -78,6 +78,9 @@ Beyond my academic pursuits, I am an avid history and geography enthusiast, with
 <img src='images/xuelong2.png' width="24%">
 </center>  
 
+<i class="fa fa-globe fa-spin"></i>&nbsp;Visitor Map
+======
+
 
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
