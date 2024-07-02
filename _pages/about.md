@@ -61,8 +61,8 @@ Beyond my academic pursuits, I am an avid history and geography enthusiast, with
 
 📖 Educations
 ======
-<i class="fa fa-mortar-board fa-spin"></i>&nbsp; BSc in Optoelectronic Information Science and Engineering, 2015.09-2019.06
-&nbsp; Anhui University Of Technology
+<i class="fa fa-mortar-board fa-spin"></i>&nbsp; BSc in Optoelectronic Information Science and Engineering, 2015.09-2019.06  
+&nbsp; <font color="#A9A9A9">Anhui University Of Technology</font>
 
 
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
