@@ -62,7 +62,7 @@ Beyond my academic pursuits, I am an avid history and geography enthusiast, with
 📖 Educations
 ======
 - **Ph.D in Optical Engineering, <font color="#B22222">2022.03-2025.06</font>**  
-aa
+**<font color="#A9A9A9">National University of Defense Technology</font>**  
 &nbsp;**<font color="#A9A9A9">National University of Defense Technology</font>**  
 - **MEng in Optical Engineering, <font color="#B22222">2019.09-2021.12</font>**  
 &nbsp;**<font color="#A9A9A9">National University of Defense Technology</font>**  
