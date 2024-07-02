@@ -61,7 +61,7 @@ Beyond my academic pursuits, I am an avid history and geography enthusiast, with
 
 📖 Educations
 ======
-<i class="fa fa-mortar-board fa-spin"></i>&nbsp; BSc in Optoelectronic Information Science and Engineering, *2015.09-2019.06*  
+<i class="fa fa-mortar-board fa-spin"></i>&nbsp; **BSc in Optoelectronic Information Science and Engineering, <font color="#B22222">2015.09-2019.06</font>**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <font color="#A9A9A9">Anhui University Of Technology</font>  
 <i class="fa fa-mortar-board fa-spin"></i>&nbsp; 
 
