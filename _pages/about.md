@@ -82,4 +82,4 @@ Beyond my academic pursuits, I am an avid history and geography enthusiast, with
 🌏 Visitor Map
 ======
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=1Pegj0Om2n-x5LRfSvUX1UHNycqYrmvbvw9xHBcBEKY"></script>
+<body><script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=1Pegj0Om2n-x5LRfSvUX1UHNycqYrmvbvw9xHBcBEKY"></script></body>
