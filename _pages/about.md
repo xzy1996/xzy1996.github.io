@@ -66,7 +66,11 @@ Beyond my academic pursuits, I am an avid history and geography enthusiast, with
 <i class="fa fa-mortar-board fa-spin"></i>&nbsp; **MEng in Optical Engineering, <font color="#B22222">2019.09-2021.12</font>**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <font color="#A9A9A9">National University of Defense Technology</font>  
 <i class="fa fa-mortar-board fa-spin"></i>&nbsp; **Ph.D in Optical Engineering, <font color="#B22222">2022.03-2025.06</font>**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <font color="#A9A9A9">National University of Defense Technology</font> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <font color="#A9A9A9">National University of Defense Technology</font>  
+
+💻 Internships
+======
+
 
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
