@@ -78,7 +78,7 @@ Beyond my academic pursuits, I am an avid history and geography enthusiast, with
 <img src='images/xuelong2.png' width="24%">
 </center>  
 
-<i class="fa fa-globe fa-spin"></i>&nbsp;Visitor Map
+<i class="fa fa-globe" aria-hidden="true"></i>&nbsp;Visitor Map
 ======
 
 
