@@ -66,7 +66,7 @@ Beyond my academic pursuits, I am an avid history and geography enthusiast, with
 - **MEng in Optical Engineering, <font color="#B22222">2019.09-2021.12</font>**  
 &nbsp;**<font color="#A9A9A9">National University of Defense Technology</font>**  
 - **Ph.D in Optical Engineering, <font color="#B22222">2022.03-2025.06</font>**  
-&thinsp;&thinsp;**<font color="#A9A9A9">National University of Defense Technology</font>**  
+&thinsp;**<font color="#A9A9A9">National University of Defense Technology</font>**  
 
 💻 Internships
 ======
