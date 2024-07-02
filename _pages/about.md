@@ -36,9 +36,9 @@ Beyond my academic pursuits, I am an avid history and geography enthusiast, with
 <font style="background: #1769FF" color="#FFFFFF">&nbsp;&nbsp;IEEE Transactions on Instrumentation and Measurement&nbsp;&nbsp;</font>
 
 **Online Calibration Method for Pitch-Independent Laser Doppler Velocimeter Based on Improved Integrated Navigation Model**  
-
 ***<font color="#006400">Zhiyi Xiang</font>****<font color="#006400">, Qi Wang, Rong Huang, Shilong Jin, Xiaoming Nie, Jian Zhou<sup>*</sup></font>*  
 <a href="https://ieeexplore.ieee.org/document/10251461/" target="_blank">paper</a>{: .btn--research}  
+<br>
 
 ------
 <img align="left" src='images/MST2023.png' width = "300px"/>  
@@ -46,8 +46,8 @@ Beyond my academic pursuits, I am an avid history and geography enthusiast, with
 
 **A SINS/GNSS/2D-LDV Integrated Navigation Scheme for Unmanned Ground Vehicles**  
 ***<font color="#006400">Zhiyi Xiang</font>****<font color="#006400">, Tao Zhang, Qi Wang, Shilong Jin, Xiaoming Nie, Chengfang Duan, Jian Zhou<sup>*</sup></font>*  
-
 <a href="https://iopscience.iop.org/article/10.1088/1361-6501/acf2b4" target="_blank">paper</a>{: .btn--research}  
+<br>
 
 ------
 <img align="left" src='images/IEEEsensors2022.png' width = "300px"/>  
