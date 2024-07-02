@@ -70,6 +70,7 @@ Beyond my academic pursuits, I am an avid history and geography enthusiast, with
 
 💻 Internships
 ======
+- ***<font color="#4B0082">2019.04-2019.07</font>***: &nbsp;Xuelong 2, Jiangnan Shipyard, Shanghai.  
 
 
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
