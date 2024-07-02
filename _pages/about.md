@@ -13,7 +13,7 @@ My research interests lie in the fields of <a href="https://en.wikipedia.org/wik
 
 Beyond my academic pursuits, I am an avid history and geography enthusiast, with a particular interest in Chinese history. I also enjoy gaming, with favorites including League of Legends, Naraka: Bladepoint, GTA V, Red Dead Redemption 2, The Witcher 3, Monster Hunter: World, and the Battlefield series. Additionally, I have spent over 200 hours playing Civilization VI and No Man’s Sky.
 
-# 🔥 News
+🔥 News
 ======
 - ***<font color="#4B0082">2024.06</font>***: &nbsp;🎉🎉🎉 I am honored to have been awarded the **<font color="#FF0000">IOP Trusted Reviewer status</font>** by the IOP Publishing Group.
 - ***<font color="#4B0082">2024.01</font>***: &nbsp;🎉🎉 1 paper accepted by ***<font color="#A52A2A">Measurement Science and Technology</font>***.
@@ -30,7 +30,7 @@ Beyond my academic pursuits, I am an avid history and geography enthusiast, with
 - ***<font color="#4B0082">2024.06</font>***: &nbsp; IOP Trusted Reviewer status.
 - ***<font color="#4B0082">2019.06</font>***: &nbsp; Outstanding Graduate for Excellence in Both Character and Academics by Anhui Province (安徽省品学兼优毕业生).
 
-# 📝 Featured Publications 
+📝 Featured Publications 
 ======
 <img align="left" src='images/TIM2023.png' width = "300px"/>  
 <font style="background: #1769FF" color="#FFFFFF">&nbsp;&nbsp;IEEE Transactions on Instrumentation and Measurement&nbsp;&nbsp;</font>
@@ -59,7 +59,10 @@ Beyond my academic pursuits, I am an avid history and geography enthusiast, with
 
 ------
 
-# 📖 Educations
+📖 Educations
+======
+<i class="fa fa-mortar-board"></i>
+
 
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
