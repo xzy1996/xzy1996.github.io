@@ -61,16 +61,24 @@
     
     {% if post.citation and post.paperurl and post.Weblink and post.Bib %}
       <p><strong>Recommended citation:</strong> {{ post.citation }}<br /><a href="{{ post.paperurl }}" target="_blank"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>  <a href="{{ post.Weblink }}" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>  <a href="{{ post.Bib }}" target="_blank"><i class="fas fa-fw fa-quote-right" aria-hidden="true"></i></a></p>
+    {% elsif post.citation and post.paperurl and post.Weblink %}
+      <p><strong>Recommended citation:</strong> {{ post.citation }}<br /><a href="{{ post.paperurl }}" target="_blank"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>  <a href="{{ post.Weblink }}" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></p>
+    {% elsif post.citation and post.paperurl and post.Bib %}
+      <p><strong>Recommended citation:</strong> {{ post.citation }}<br /><a href="{{ post.paperurl }}" target="_blank"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>  <a href="{{ post.Bib }}" target="_blank"><i class="fas fa-fw fa-quote-right" aria-hidden="true"></i></a></p>
     {% elsif post.citation and post.paperurl %}
-      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a></p>
-    {% elsif post.citation and post.slidesurl %}
-      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.slidesurl }}">Download Slides</a></p>
+      <p><strong>Recommended citation:</strong> {{ post.citation }}<br /><a href="{{ post.paperurl }}" target="_blank"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></p>
+    {% elsif post.citation and post.Weblink %}
+      <p><strong>Recommended citation:</strong> {{ post.citation }}<br /><a href="{{ post.Weblink }}" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></p>
+    {% elsif post.citation and post.Bib %}
+      <p><strong>Recommended citation:</strong> {{ post.citation }}<br /><a href="{{ post.Bib }}" target="_blank"><i class="fas fa-fw fa-quote-right" aria-hidden="true"></i></a></p>
     {% elsif post.citation %}
-      <p>Recommended citation: {{ post.citation }}</p>
+      <p><strong>Recommended citation:</strong> {{ post.citation }}</p>
     {% elsif post.paperurl %}
-      <p><a href=" {{ post.paperurl }} ">Download Paper</a></p>
-    {% elsif post.slidesurl %}
-      <p>Download <a href="{{ post.slidesurl }}">Download Slides</a></p></p>
+      <p><a href="{{ post.paperurl }}" target="_blank"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></p>
+    {% elsif post.Weblink %}
+      <p><a href="{{ post.Weblink }}" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></p>
+    {% elsif post.Bib %}
+      <p><a href="{{ post.Bib }}" target="_blank"><i class="fas fa-fw fa-quote-right" aria-hidden="true"></i></a></p>
     {% endif %}
 
   </article>
