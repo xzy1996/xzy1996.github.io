@@ -50,12 +50,12 @@ Beyond my academic pursuits, I am an avid history and geography enthusiast, with
 <br>
 
 ------
-<p><img align="left" src='images/IEEEsensors2022.png' width = "300px"/><br />  
-<font style="background: #1769FF" color="#FFFFFF">&nbsp;&nbsp;IEEE Sensors Journal&nbsp;&nbsp;</font><br />
+<img align="left" src='images/IEEEsensors2022.png' width = "300px"/>  
+<font style="background: #1769FF" color="#FFFFFF">&nbsp;&nbsp;IEEE Sensors Journal&nbsp;&nbsp;</font>
 
-**A Fast Robust In-Motion Alignment Method for Laser Doppler Velocimeter-Aided Strapdown Inertial Navigation System**<br />  
-***<font color="#006400">Zhiyi Xiang</font>****<font color="#006400">, Qi Wang, Rong Huang, Chongbin Xi, Xiaoming Nie, Jian Zhou<sup>*</sup></font>*<br />  
-<a href="https://ieeexplore.ieee.org/document/9841423/" target="_blank">paper</a>{: .btn--research}</p>  
+**A Fast Robust In-Motion Alignment Method for Laser Doppler Velocimeter-Aided Strapdown Inertial Navigation System**  
+***<font color="#006400">Zhiyi Xiang</font>****<font color="#006400">, Qi Wang, Rong Huang, Chongbin Xi, Xiaoming Nie, Jian Zhou<sup>*</sup></font>*  
+<a href="https://ieeexplore.ieee.org/document/9841423/" target="_blank">paper</a>{: .btn--research}  
 
 ------
 
