@@ -1,7 +1,7 @@
 ---
 title: "A Robust Online Calibration Method for SINS/LDV Integrated Navigation System Based on Position Observation"
 collection: publications
-permalink: /publication/2022/2023-IEEEsensors
+permalink: /publication/2023/2023-IEEEsensors
 name: '<i><strong>Zhiyi Xiang</strong>, Qi Wang, Rong Huang, Shilong Jin, Xiaoming Nie, Jian Zhou<sup>*</sup></i>'
 date: 2024-01-01
 venue: 'IEEE Sensors Journal'
