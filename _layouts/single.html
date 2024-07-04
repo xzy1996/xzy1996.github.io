@@ -47,6 +47,23 @@ layout: default
       <section class="page__content" itemprop="text">
         {{ content }}
 
+        {% if page.paperurl and page.Weblink and page.Bib %}
+          <p><a href="{{ page.paperurl }}" target="_blank"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>  <a href="{{ page.Weblink }}" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>  <a href="{{ page.Bib }}" target="_blank"><i class="fas fa-fw fa-quote-right" aria-hidden="true"></i></a></p>
+        {% elsif page.paperurl and page.Bib %}
+          <p><a href="{{ page.paperurl }}" target="_blank"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>  <a href="{{ page.Bib }}" target="_blank"><i class="fas fa-fw fa-quote-right" aria-hidden="true"></i></a></p>
+        {% elsif page.paperurl and page.Weblink %}
+          <p><a href="{{ page.paperurl }}" target="_blank"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>  <a href="{{ page.Weblink }}" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></p>
+        {% elsif page.Weblink and page.Bib %}
+          <p><a href="{{ page.Weblink }}" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>  <a href="{{ page.Bib }}" target="_blank"><i class="fas fa-fw fa-quote-right" aria-hidden="true"></i></a></p>
+        {% elsif page.paperurl %}
+          <p><a href="{{ page.paperurl }}" target="_blank"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></p>
+        {% elsif page.Weblink %}
+          <p><a href="{{ page.Weblink }}" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></p>
+        {% elsif page.Bib %}
+          <p><a href="{{ page.Bib }}" target="_blank"><i class="fas fa-fw fa-quote-right" aria-hidden="true"></i></a></p>
+        {% endif %}
+
+
         {% if page.citation and page.paperurl and page.Weblink and page.Bib %}
           <p style="font-size: smaller"><strong>Recommended citation:</strong> {{ page.citation }}<br /><a href="{{ page.paperurl }}" target="_blank"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>  <a href="{{ page.Weblink }}" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>  <a href="{{ page.Bib }}" target="_blank"><i class="fas fa-fw fa-quote-right" aria-hidden="true"></i></a></p>
         {% elsif page.citation and page.Weblink and page.Bib %}
