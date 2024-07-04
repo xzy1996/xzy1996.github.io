@@ -1,7 +1,7 @@
 ---
 title: "Water track laser Doppler velocimeter"
 collection: publications
-permalink: /publication/2022/2023-COL-Huang
+permalink: /publication/2023/2023-COL-Huang
 name: '<i>Rong Huang, Qi Wang, <strong>Zhiyi Xiang</strong>, Xiaoming Nie, Jian Zhou<sup>*</sup>, Hui Luo</i>'
 date: 2023-09-10
 venue: 'Chinese Optics Letters'
