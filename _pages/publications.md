@@ -11,6 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications.2021 reversed %}
+{% for post in site.publications/2021 reversed %}
   {% include archive-single.html %}
 {% endfor %}
