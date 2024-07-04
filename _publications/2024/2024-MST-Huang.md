@@ -1,7 +1,7 @@
 ---
 title: "A water track laser Doppler velocimeter for use in underwater navigation"
 collection: publications
-permalink: /publication/2022/2024-MST-Huang
+permalink: /publication/2024/2024-MST-Huang
 name: '<i>Rong Huang, Qi Wang, <strong>Zhiyi Xiang</strong>, Xiaoming Nie, Jian Zhou<sup>*</sup>, Hui Luo</i>'
 date: 2024-02-02
 venue: 'Measurement Science and Technology'
