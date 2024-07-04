@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /publications/2021/
+permalink: /publications/
 author_profile: true
 ---
 
