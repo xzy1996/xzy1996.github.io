@@ -67,7 +67,7 @@ Beyond my academic pursuits, I am an avid history and geography enthusiast, with
 </div>
 </div>
 
-<br>
+
 
 📖 Educations
 ======
