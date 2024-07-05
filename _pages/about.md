@@ -36,9 +36,10 @@ Beyond my academic pursuits, I am an avid history and geography enthusiast, with
 
 📝 Featured Publications 
 ======
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><a href="images/TIM2023.png"><img src='images/TIM2023.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/TIM2023.png"><img src='images/TIM2023.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 <font color="#A52A2A"><strong>IEEE Transactions on Instrumentation and Measurement</strong></font>
+<p style="font-size: larger"><strong>Online Calibration Method for Pitch-Independent Laser Doppler Velocimeter Based on Improved Integrated Navigation Model</strong></p><br>
 <strong>Online Calibration Method for Pitch-Independent Laser Doppler Velocimeter Based on Improved Integrated Navigation Model</strong><br>
 <i><font color="#006400"><strong>Zhiyi Xiang</strong>, Qi Wang, Rong Huang, Shilong Jin, Xiaoming Nie, Jian Zhou<sup>*</sup></font></i><br>
 <a href="https://ieeexplore.ieee.org/document/10251461/" target="_blank">paper</a>{: .btn--research} 
