@@ -10,6 +10,10 @@ citation: 'L. Chen, C. Xi, J. Zhou, X. Nie, Q. Wang, R. Huang, Z. Xiang, and S. 
 #Bib: '/files/Bib/MST-2024.bib'
 Weblink: 'http://irla.cn/article/doi/10.3788/IRLA20230143'
 ---
+
+<font color="#006400"><i>Lanjian Chen, Chongbin Xi, Jian Zhou<sup>*</sup>, Xiaoming Nie, Qi Wang, Rong Huang, <strong>Zhiyi Xiang</strong>, Shilong Jin</i></font>
+------
+
 **Abstract**
 ------
 **Significance** The technology known as the laser Doppler velocimeter (LDV) has gained widespread application in both scientific research and industrial production, following years of development. This technology offers an independent means of measuring velocity, which is especially useful for the navigation and localization of vehicles. Compared to traditional velocity measuring methods such as odometers, accelerometers, and global navigation satellite systems (GNSS), LDVs have high accuracy and reliability even in all-day, all-weather conditions. These features satisfy the requirement for precise navigation and localization, thus getting the focus of attention of the researchers in this field. In order to anticipate future progress, it is essential to review the current research.  
