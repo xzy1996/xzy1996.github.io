@@ -15,7 +15,6 @@ Beyond my academic pursuits, I am an avid history and geography enthusiast, with
 
 -----
 <br>
-
 🔥 News
 ======
 - ***<font color="#4B0082">2024.06</font>***: &nbsp;🎉🎉🎉 I am honored to have been awarded the **<font color="#FF0000">IOP Trusted Reviewer status</font>** by the IOP Publishing Group.
