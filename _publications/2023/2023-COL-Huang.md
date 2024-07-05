@@ -10,6 +10,10 @@ citation: 'R. Huang, Q. Wang, Z. Xiang, X. Nie, J. Zhou, and H. Luo, &quot;Water
 #Bib: '/files/Bib/MST-2024.bib'
 Weblink: 'https://opg.optica.org/col/abstract.cfm?URI=col-21-9-090005'
 ---
+
+<font color="#006400"><i>Rong Huang, Qi Wang, <strong>Zhiyi Xiang</strong>, Xiaoming Nie, Jian Zhou<sup>*</sup>, Hui Luo</i></font>
+------
+
 **Abstract**
 ------
 A water track laser Doppler velocimeter (LDV) is developed with advantages of high update rate, high real-time performance, high concealment, light weight, and small dimensions. The water track LDV measures the advance velocity of the underwater vehicle with respect to the surrounding water. The experimental results show that the water track LDV has an accuracy of 96.4% when the moving velocity of the vehicle with respect to the ground exceeds 0.25 m/s. Thus, the water track LDV is promising in the application of underwater navigation to aid the strapdown inertial navigation system.
