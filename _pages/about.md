@@ -66,7 +66,6 @@ Beyond my academic pursuits, I am an avid history and geography enthusiast, with
 <a href="https://ieeexplore.ieee.org/document/9841423/" target="_blank">paper</a>{: .btn--research} 
 </div>
 </div>
-------
 
 📖 Educations
 ======
