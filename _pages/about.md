@@ -14,6 +14,7 @@ My research interests lie in the fields of <a href="https://en.wikipedia.org/wik
 Beyond my academic pursuits, I am an avid history and geography enthusiast, with a particular interest in Chinese history. I also enjoy gaming, with favorites including League of Legends, Naraka: Bladepoint, GTA V, Red Dead Redemption 2, The Witcher 3, Monster Hunter: World, and the Battlefield series. Additionally, I have spent over 200 hours playing Civilization VI and No Man’s Sky.
 
 -----
+<br>
 
 🔥 News
 ======
