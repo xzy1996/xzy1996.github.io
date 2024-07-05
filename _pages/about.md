@@ -36,7 +36,7 @@ Beyond my academic pursuits, I am an avid history and geography enthusiast, with
 
 📝 Featured Publications 
 ======
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Trans Instrum Mea (Q1)</div><a href="images/TIM2023.png"><img src='images/TIM2023.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><a href="images/TIM2023.png"><img src='images/TIM2023.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 <font color="#A52A2A"><strong>IEEE Transactions on Instrumentation and Measurement</strong></font>
 <strong>Online Calibration Method for Pitch-Independent Laser Doppler Velocimeter Based on Improved Integrated Navigation Model</strong><br>
