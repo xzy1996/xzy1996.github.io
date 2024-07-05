@@ -32,24 +32,16 @@ Beyond my academic pursuits, I am an avid history and geography enthusiast, with
 
 📝 Featured Publications 
 ======
-<img align="left" src='images/TIM2023.png' width = "300px"/>  
-<font style="background: #1769FF" color="#FFFFFF">&nbsp;&nbsp;IEEE Transactions on Instrumentation and Measurement&nbsp;&nbsp;</font>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><a href="images/TIM2023.png"><img src='images/TIM2023.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+<font color="#A52A2A"><strong>IEEE Transactions on Instrumentation and Measurement</strong></font>
+<strong>Online Calibration Method for Pitch-Independent Laser Doppler Velocimeter Based on Improved Integrated Navigation Model</strong><br>
+<i><font color="#006400"><strong>Zhiyi Xiang</strong>, Qi Wang, Rong Huang, Shilong Jin, Xiaoming Nie, Jian Zhou<sup>*</sup></font></i><br>
+<a href="https://ieeexplore.ieee.org/document/10251461/" target="_blank">paper</a>{: .btn--research} 
+</div>
+</div>
 
-**Online Calibration Method for Pitch-Independent Laser Doppler Velocimeter Based on Improved Integrated Navigation Model**  
-***<font color="#006400">Zhiyi Xiang</font>****<font color="#006400">, Qi Wang, Rong Huang, Shilong Jin, Xiaoming Nie, Jian Zhou<sup>*</sup></font>*  
-<a href="https://ieeexplore.ieee.org/document/10251461/" target="_blank">paper</a>{: .btn--research}  
-<br>
 
-------
-<img align="left" src='images/MST2023.png' width = "300px"/>  
-<font style="background: #1769FF" color="#FFFFFF">&nbsp;&nbsp;Measurement Science and Technology&nbsp;&nbsp;</font>
-
-**A SINS/GNSS/2D-LDV Integrated Navigation Scheme for Unmanned Ground Vehicles**  
-***<font color="#006400">Zhiyi Xiang</font>****<font color="#006400">, Tao Zhang, Qi Wang, Shilong Jin, Xiaoming Nie, Chengfang Duan, Jian Zhou<sup>*</sup></font>*  
-<a href="https://iopscience.iop.org/article/10.1088/1361-6501/acf2b4" target="_blank">paper</a>{: .btn--research}  
-<br>
-
-------
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><a href="images/MST2023.png"><img src='images/MST2023.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 <font color="#A52A2A"><strong>Measurement Science and Technology</strong></font>
