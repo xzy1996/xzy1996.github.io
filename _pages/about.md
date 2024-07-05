@@ -14,7 +14,7 @@ My research interests lie in the fields of <a href="https://en.wikipedia.org/wik
 Beyond my academic pursuits, I am an avid history and geography enthusiast, with a particular interest in Chinese history. I also enjoy gaming, with favorites including League of Legends, Naraka: Bladepoint, GTA V, Red Dead Redemption 2, The Witcher 3, Monster Hunter: World, and the Battlefield series. Additionally, I have spent over 200 hours playing Civilization VI and No Man’s Sky.
 
 -----
-<br>
+
 🔥 News
 ======
 - ***<font color="#4B0082">2024.06</font>***: &nbsp;🎉🎉🎉 I am honored to have been awarded the **<font color="#FF0000">IOP Trusted Reviewer status</font>** by the IOP Publishing Group.
