@@ -39,17 +39,17 @@ Beyond my academic pursuits, I am an avid history and geography enthusiast, with
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/TIM2023.png"><img src='images/TIM2023.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 <strong>Online Calibration Method for Pitch-Independent Laser Doppler Velocimeter Based on Improved Integrated Navigation Model</strong><br>
-<i><font color="#A52A2A"><strong>IEEE Transactions on Instrumentation and Measurement</strong></font><br><strong>, <font color="#4B0082">2023</font></strong></i><br>
+<i><font color="#A52A2A"><strong>IEEE Transactions on Instrumentation and Measurement</strong></font><strong>, <font color="#4B0082">2023</font></strong></i><br>
 <i><font color="#006400"><strong>Zhiyi Xiang</strong>, Qi Wang, Rong Huang, Shilong Jin, Xiaoming Nie, Jian Zhou<sup>*</sup></font></i><br>
 <a href="https://ieeexplore.ieee.org/document/10251461/" target="_blank">paper</a>{: .btn--research} 
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><a href="images/MST2023.png"><img src='images/MST2023.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/MST2023.png"><img src='images/MST2023.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
-<font color="#A52A2A"><strong>Measurement Science and Technology</strong></font>
 <strong>A SINS/GNSS/2D-LDV Integrated Navigation Scheme for Unmanned Ground Vehicles</strong><br>
+<i><font color="#A52A2A"><strong>Measurement Science and Technology</strong></font><strong>, <font color="#4B0082">2023</font></strong></i><br>
 <i><font color="#006400"><strong>Zhiyi Xiang</strong>, Tao Zhang, Qi Wang, Shilong Jin, Xiaoming Nie, Chengfang Duan, Jian Zhou<sup>*</sup></font></i><br>
 <a href="https://iopscience.iop.org/article/10.1088/1361-6501/acf2b4" target="_blank">paper</a>{: .btn--research} 
 </div>
@@ -58,8 +58,8 @@ Beyond my academic pursuits, I am an avid history and geography enthusiast, with
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><a href="images/IEEEsensors2022.png"><img src='images/IEEEsensors2022.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
-<font color="#A52A2A"><strong>IEEE Sensors Journal</strong></font>
 <strong>A Fast Robust In-Motion Alignment Method for Laser Doppler Velocimeter-Aided Strapdown Inertial Navigation System</strong><br>
+<i><font color="#A52A2A"><strong>IEEE Sensors Journal</strong></font><strong>, <font color="#4B0082">2022</font></strong></i><br>
 <i><font color="#006400"><strong>Zhiyi Xiang</strong>, Qi Wang, Rong Huang, Chongbin Xi, Xiaoming Nie, Jian Zhou<sup>*</sup></font></i><br>
 <a href="https://ieeexplore.ieee.org/document/9841423/" target="_blank">paper</a>{: .btn--research} 
 </div>
