@@ -56,7 +56,7 @@ Beyond my academic pursuits, I am an avid history and geography enthusiast, with
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><a href="images/IEEEsensors2022.png"><img src='images/IEEEsensors2022.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/IEEEsensors2022.png"><img src='images/IEEEsensors2022.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 <strong>A Fast Robust In-Motion Alignment Method for Laser Doppler Velocimeter-Aided Strapdown Inertial Navigation System</strong><br>
 <i><font color="#A52A2A"><strong>IEEE Sensors Journal</strong></font><strong>, <font color="#4B0082">2022</font></strong></i><br>
