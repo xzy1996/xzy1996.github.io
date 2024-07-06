@@ -10,11 +10,7 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-{% capture written_year %}'None'{% endcapture %}
-{% for post in site.publications %}
-  {% if year != written_year %}
-    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
-    {% capture written_year %}{{ year }}{% endcapture %}
-  {% endif %}
+
+{% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
