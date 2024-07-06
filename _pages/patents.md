@@ -5,7 +5,7 @@ permalink: /patents/
 author_profile: true
 ---
 
-<font color="#FF0000"><strong>My patent can be found in the</strong></font> <a href="https://pss-system.cponline.cnipa.gov.cn/conventionalSearch" target="_blank"><strong>patent search section of the State Intellectual Property Office of China</strong></a>.
+<font color="#FF0000"><strong>My patent can be found in the</strong></font><a href="https://pss-system.cponline.cnipa.gov.cn/conventionalSearch" target="_blank"><strong>patent search section of the State Intellectual Property Office of China</strong></a>.
 
 {% include base_path %}
 
