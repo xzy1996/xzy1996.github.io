@@ -42,9 +42,9 @@ layout: default
           <p><font color="#A52A2A"><strong><i>{{ page.School }}</i></strong></font> <font color="#4B0082"><strong><i>{{ page.date | default: "1900-01-01" | date: "%Y" }}</i></strong></font> </p>
         {% elsif page.collection == 'patents' %}
           {% if page.country and page.type and page.date and page.number %}
-          <p><font color="#A52A2A"><strong><i>{{ page.country }}</i></strong></font> : <font color="#00369f"><strong><i>{{ page.type }}</i></strong></font><br><font color="#4B0082"><strong><i>{{ page.date | default: "1900-01-01" | date: "%Y" }}</i></strong></font> : <font color="#ff3300"><strong><i>{{ page.number }}</i></strong></font> </p>
+          <p><font color="#A52A2A"><strong><i>{{ page.country }}</i></strong></font> : <font color="#00369f"><strong><i>{{ page.type }}</i></strong></font><br><br><font color="#4B0082"><strong><i>{{ page.date | default: "1900-01-01" | date: "%Y" }}</i></strong></font> : <font color="#ff3300"><strong><i>{{ page.number }}</i></strong></font><br><br><font color="#006400">{{ page.name }}</font></p>
           {% elsif page.country and page.type and page.date %}
-          <p><font color="#A52A2A"><strong><i>{{ page.country }}</i></strong></font> : <font color="#00369f"><strong><i>{{ page.type }}</i></strong></font> <font color="#4B0082"><strong><i>{{ page.date | default: "1900-01-01" | date: "%Y" }}</i></strong></font> </p>
+          <p><font color="#A52A2A"><strong><i>{{ page.country }}</i></strong></font> : <font color="#00369f"><strong><i>{{ page.type }}</i></strong></font> <font color="#4B0082"><strong><i>{{ page.date | default: "1900-01-01" | date: "%Y" }}</i></strong></font><br><br><font color="#006400">{{ page.name }}</font></p>
           {% endif %}
         {% elsif page.date %}
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
