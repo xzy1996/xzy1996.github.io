@@ -12,6 +12,8 @@ number: 'ZL202110391840.5'
 Weblink: 'https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui'
 ---
 
+<font color="#006400"><i><strong>向志毅(Zhiyi Xiang)</strong>, 周健(Jian Zhou), 聂晓明(Xiaoming Nie), 王琦(Qi Wang), 黄荣(Rong Huang), 席崇宾(Chongbin Xi), 陈兰剑(Lanjian Chen), 程吉利(Jili Cheng)</i></font>
+------
 
 **Abstract**
 ------
