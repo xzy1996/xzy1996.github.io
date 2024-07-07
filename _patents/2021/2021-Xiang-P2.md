@@ -3,7 +3,7 @@ title: "基于激光多普勒测速仪的惯导系统行进间初始对准方法
 collection: patents
 permalink: /patents/2021/2021-Xiang-P2
 name: '<i><strong>向志毅(Zhiyi Xiang)</strong>, 周健(Jian Zhou), 王琦(Qi Wang), 聂晓明(Xiaoming Nie), 席崇宾(Chongbin Xi), 黄荣(Rong Huang), 陈兰剑(Lanjian Chen), 程吉利(Jili Cheng)</i>'
-date: 2021-04-15
+date: 2021-05-14
 country: '中国(China)'
 #paperurl: '/files/pub/2021 AO Calibration.pdf'
 type: '发明专利(Invention Patent)'
