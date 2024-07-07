@@ -9,12 +9,18 @@ author_profile: true
 
 {% include base_path %}
 {% capture written_Degree_of_participation %}'None'{% endcapture %}
+{% capture written_year %}'None'{% endcapture %}
 {% for post in site.patents reversed %}
   {% if post.participation == 'Principal Inventor' %}
   <p>{% capture Degree_of_participation %}{{ post.participation }}{% endcapture %}
   {% if Degree_of_participation != written_Degree_of_participation %}
-    <font color="#000000" ><strong>{{ Degree_of_participation }}</strong></font>
+    <font color="#000000" style="font-size: larger"><strong>{{ Degree_of_participation }}</strong></font>
   {% capture written_Degree_of_participation %}{{ Degree_of_participation }}{% endcapture %}
+  {% endif %}
+  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+  {% if year != written_year %}
+    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
+    {% capture written_year %}{{ year }}{% endcapture %}
   {% endif %}</p>
   {% include archive-single.html %}
   {% endif %}
@@ -24,7 +30,7 @@ author_profile: true
   {% if post.participation == 'Others' %}
   <p>{% capture Degree_of_participation %}{{ post.participation }}{% endcapture %}
   {% if Degree_of_participation != written_Degree_of_participation %}
-    <font color="#000000" ><strong>{{ Degree_of_participation }}</strong></font>
+    <font color="#000000" style="font-size: larger"><strong>{{ Degree_of_participation }}</strong></font>
   {% capture written_Degree_of_participation %}{{ Degree_of_participation }}{% endcapture %}
   {% endif %}</p>
   {% include archive-single.html %}
