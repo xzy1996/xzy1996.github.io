@@ -26,16 +26,7 @@ Honors and Awards
 
 Internships
 ======
-* 2019.04-2019.07: Xuelong 2 polar research ship, Jiangnan Shipyard, Shanghai
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2019.04-2019.07: Xuelong 2 polar research ship, Jiangnan Shipyard, Shanghai 
 
 Publications
 ======
