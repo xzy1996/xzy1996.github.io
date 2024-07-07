@@ -74,7 +74,7 @@ Beyond my academic pursuits, I am an avid history and geography enthusiast, with
 - **MEng in Optical Engineering, <font color="#B22222">2019.09-2021.12</font>**  
 **<font color="#A9A9A9">National University of Defense Technology</font>**  
 - **BSc in Optoelectronic Information Science and Engineering, <font color="#B22222">2015.09-2019.06</font>**  
-**<font color="#A9A9A9">Anhui University Of Technology</font>**   
+**<font color="#A9A9A9">Anhui University of Technology</font>**   
 
 💻 Internships
 ======
