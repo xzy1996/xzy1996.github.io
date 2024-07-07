@@ -17,11 +17,12 @@ Education
 
 Honors and Awards
 ======
-2024.06: IOP Trusted Reviewer status
-2023.12: Outstanding Student of College of Advanced Interdisciplinary Studies
-2022.12: Freshman Scholarship of National University of Defense Technology
-2019.06: Outstanding Graduate for Excellence in Both Character and Academics by Anhui Province (安徽省品学兼优毕业生) (Top 2%)
-2016-2019: First Prize Scholarship of Anhui University of Technology for three consecutive years (Top 3%)
+* 2024.06: IOP Trusted Reviewer status
+* 2023.12: Outstanding Student of College of Advanced Interdisciplinary Studies
+* 2023.05: Outstanding Volunteer of the First Frontier Interdisciplinary Science Conference on Optical Engineering
+* 2022.12: Freshman Scholarship of National University of Defense Technology
+* 2019.06: Outstanding Graduate for Excellence in Both Character and Academics by Anhui Province (安徽省品学兼优毕业生) (Top 2%)
+* 2016-2019: First Prize Scholarship of Anhui University of Technology for three consecutive years (Top 3%)
 
 Internships
 ======
