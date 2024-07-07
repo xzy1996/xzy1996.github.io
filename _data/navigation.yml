@@ -6,6 +6,8 @@ main:
   - title: "Patents"
     url: /patents/ 
 
+  - title: "Software"
+    url: /software/ 
   #- title: "Talks"
   #  url: /talks/    
 
