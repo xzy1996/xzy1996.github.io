@@ -17,20 +17,11 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Internship on Xuelong 2 polar research ship
+  * Time: 2019.04-2019.07
+  * Duties includes: Wireless broadband, integrated room division, and fusion communication
+  * Supervisor: Xiping Tang
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
