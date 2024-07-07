@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Optical Engineering, National University of Defense Technology, 2022.03-2025.06 (expected)
+* M.S. in Optical Engineering, National University of Defense Technology, 2019.09-2021.12
+* B.S. in Optoelectronic Information Science and Engineering, Anhui University Of Technology, 2015.09-2019.06
 
 Work experience
 ======
@@ -47,18 +47,10 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Patents
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
+  <ul>{% for post in site.patents reversed %}
+    {% include archive-single-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
