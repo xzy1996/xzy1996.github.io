@@ -13,9 +13,14 @@ author_profile: true
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.publications reversed %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+
   {% if year != written_year %}
+
     a
+
   {% capture written_year %}{{ year }}{% endcapture %}
+
   {% endif %}
+  
   {% include archive-single.html %}
 {% endfor %}
