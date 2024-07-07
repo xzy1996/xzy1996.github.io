@@ -3,7 +3,7 @@ title: "一种基于测量光路多重反射的相位调制双零差干涉仪<br
 collection: patents
 permalink: /patents/2021/2021-Xiang-P1
 name: '<i><strong>向志毅(Zhiyi Xiang)</strong>, 周健(Jian Zhou), 聂晓明(Xiaoming Nie), 王琦(Qi Wang), 黄荣(Rong Huang), 席崇宾(Chongbin Xi), 陈兰剑(Lanjian Chen), 程吉利(Jili Cheng)</i>'
-date: 2021-04-13
+date: 2021-06-18
 country: '中国(China)'
 #paperurl: '/files/pub/2021 AO Calibration.pdf'
 type: '发明专利(Invention Patent)'
