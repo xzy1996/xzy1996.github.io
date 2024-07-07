@@ -14,7 +14,7 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
   {% if year != written_year %}
-    <div class="archive__subtitle">{{ year }}</div>
+    <font color="#FF0000"><strong>{{ year }}</strong></font>
   {% capture written_year %}{{ year }}{% endcapture %}
   {% endif %}
   {% include archive-single.html %}
