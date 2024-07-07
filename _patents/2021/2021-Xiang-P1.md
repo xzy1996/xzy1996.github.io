@@ -10,7 +10,7 @@ type: '发明专利(Invention Patent)'
 number: 'ZL202110391840.5'
 #Bib: '/files/Bib/AO-2021.bib'
 Weblink: 'https://cprs.patentstar.com.cn/Search/Detail?ANE=6BDA9GFC9EEB9HGF9BIB9FFB9BHCABHA9IBB9AFE9BHD2BBA'
-participation: 'Principal inventor'
+participation: 'Principal Inventor'
 ---
 
 <font color="#006400"><i><strong>向志毅(Zhiyi Xiang)</strong>, 周健(Jian Zhou), 聂晓明(Xiaoming Nie), 王琦(Qi Wang), 黄荣(Rong Huang), 席崇宾(Chongbin Xi), 陈兰剑(Lanjian Chen), 程吉利(Jili Cheng)</i></font>
