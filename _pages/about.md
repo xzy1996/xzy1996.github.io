@@ -89,4 +89,5 @@ Beyond my academic pursuits, I am an avid history and geography enthusiast, with
 
 🌏 Visitor Map
 ======
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=56mfvxds2ng&amp;m=7&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
+<!--<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=56mfvxds2ng&amp;m=7&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>-->
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=1Pegj0Om2n-x5LRfSvUX1UHNycqYrmvbvw9xHBcBEKY"></script>
