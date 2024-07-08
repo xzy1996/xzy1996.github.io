@@ -47,7 +47,7 @@ layout: default
           <p><font color="#A52A2A"><strong><i>{{ page.country }}</i></strong></font> : <font color="#00369f"><strong><i>{{ page.type }}</i></strong></font> <font color="#4B0082"><strong><i>{{ page.date | default: "1900-01-01" | date: "%Y" }}</i></strong></font> </p>
           {% endif %}
         {% elsif page.collection == 'software' %}
-          <p><font color="#006400">{{ page.name }}</font>&nbsp; <font color="#4B0082"><strong><i>{{ page.date | default: "1900-01-01" | date: "%Y"-"%M" }}</i></strong></font> </p>
+          <p><font color="#006400">{{ page.name }}</font>&nbsp; <font color="#4B0082"><strong><i>{{ page.date | default: "1900-01-01" | date: "%Y-%M" }}</i></strong></font> </p>
         {% elsif page.date %}
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}   
