@@ -64,6 +64,12 @@
         {% endif %}
         {% endif %}
 
+        {% if post.Description %}
+        {{ post.Description }}
+        {% endif %}
+
+
+
     {% if post.collection != 'publications' and post.collection != 'patents' %}
     {% if post.excerpt and site.read_more != 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
