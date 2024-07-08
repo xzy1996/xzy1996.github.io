@@ -11,9 +11,6 @@ date: 2022-06-18
 #Bib: '/files/Bib/AO-2021.bib'
 #Weblink: 'https://cprs.patentstar.com.cn/Search/Detail?ANE=6BDA9GFC9EEB9HGF9BIB9FFB9BHCABHA9IBB9AFE9BHD2BBA'
 #participation: 'Principal Inventor'
-header:
-  og_image: "images/Software1-1.png"
-  og_image: "images/Software1-2.png"
 ---
 
 
@@ -29,6 +26,7 @@ This software, developed on the Qt platform, provides a real-time solution for t
 * SINS/LDV dead reckoning
 * SINS/LDV integrated navigation
 
+![](/images/Software1-1.png)
 <center class ='img'>
 <img src='images/Software1-1.png' width="48%">
 <img src='images/Software1-2.png' width="48%">
