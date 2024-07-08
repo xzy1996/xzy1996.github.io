@@ -52,12 +52,16 @@
           {% elsif post.country and post.type and post.date %}
           <p><font color="#A52A2A"><strong><i>{{ post.country }}</i></strong></font> : <font color="#00369f"><strong><i>{{ post.type }}</i></strong></font> <font color="#4B0082"><strong><i>{{ post.date | default: "1900-01-01" | date: "%Y" }}</i></strong></font> </p>
           {% endif %}
+        {% elsif post.collection == 'software' %}
+          <p><font color="#006400">{{ post.name }}</font>&nbsp; <font color="#4B0082"><strong><i>{{ post.date | default: "1900-01-01" | date: "%Y" }}</i></strong></font> </p>
         {% elsif post.date %}
          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}
 
+        {% if post.collection != 'software' %}
         {% if post.name %}
         <font color="#006400">{{ post.name }}</font>
+        {% endif %}
         {% endif %}
 
     {% if post.collection != 'publications' and post.collection != 'patents' %}
