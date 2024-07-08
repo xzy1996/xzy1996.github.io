@@ -4,15 +4,6 @@ collection: software
 permalink: /software/2022-software1
 name: '<i><strong>Zhiyi Xiang</strong></i>'
 date: 2022-06-18
-gallery:
-  - url: /images/Software1-1.png
-    image_path: /images/Software1-1.png
-    alt: "SINS/LDV integrated navigation software (real time) UI 1"
-    title: "SINS/LDV integrated navigation software (real time) UI 1"
-  - url: /images/Software1-2.png
-    image_path: /images/Software1-2.png
-    alt: "SINS/LDV integrated navigation software (real time) UI 2"
-    title: "SINS/LDV integrated navigation software (real time) UI 2"
 #country: '中国(China)'
 #paperurl: '/files/pub/2021 AO Calibration.pdf'
 #type: '发明专利(Invention Patent)'
@@ -35,11 +26,7 @@ This software, developed on the Qt platform, provides a real-time solution for t
 * SINS/LDV dead reckoning
 * SINS/LDV integrated navigation
 
-{% include gallery %}
 ![](/images/Software1-1.png)
-<p><center class ='img'>
-<img src='/images/Software1-1.png' width="48%">
-<img src='/images/Software1-2.png' width="48%">
-</center></p> 
+![](/images/Software1-2.png)
 
 ------
