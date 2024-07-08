@@ -4,6 +4,7 @@ collection: software
 permalink: /software/2022-software1
 name: '<i><strong>Zhiyi Xiang</strong></i>'
 date: 2022-06-18
+Description: 'This software, developed on the Qt platform, provides a real-time solution for the SINS/LDV integrated navigation system. It can collect data from high-precision 90 IMU, medium-precision 50 IMU, 1D-LDV, 2D-LDV, GNSS, and other devices, and complete real-time navigation solutions.'
 #country: '中国(China)'
 #paperurl: '/files/pub/2021 AO Calibration.pdf'
 #type: '发明专利(Invention Patent)'
