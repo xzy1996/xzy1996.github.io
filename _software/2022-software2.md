@@ -4,6 +4,7 @@ collection: software
 permalink: /software/2022-software2
 name: '<i><strong>Zhiyi Xiang</strong></i>'
 date: 2022-08-20
+Description: 'This software, developed on the Qt platform, provides an off-line solution for the SINS/LDV integrated navigation system. It can process data from IMU, GNSS, LDV, OD, and SFV sensors offline.'
 #country: '中国(China)'
 #paperurl: '/files/pub/2021 AO Calibration.pdf'
 #type: '发明专利(Invention Patent)'
