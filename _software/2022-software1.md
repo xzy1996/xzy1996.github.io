@@ -26,7 +26,7 @@ This software, developed on the Qt platform, provides a real-time solution for t
 * SINS/LDV dead reckoning
 * SINS/LDV integrated navigation
 
-![](/images/Software1-1.png)
+![](/images/Software1-1.png){: .width="48%" }
 <p><center class ='img'>
 <img src='images/Software1-1.png' width="48%">
 <img src='images/Software1-2.png' width="48%">
