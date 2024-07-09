@@ -124,8 +124,9 @@ a {
 
 /* code */
 
-tt, code, kbd, samp, pre { /*2024.7.8 change*/
+/*2024.7.8 change*/
 /*tt, code, samp, pre {*/
+tt, code, kbd, samp, pre {
   font-family: $monospace;
 }
 
