@@ -68,12 +68,12 @@
     top: 0;
     right: 0;
 
-    width: $right-sidebar-width-narrow;
+    width: $right-sidebar-width;
 
     /*margin-left: span(0.5 of 12);
     z-index: 10;*/
     /*2024.7.8 change*/
-    margin-right: -1 * $right-sidebar-width-narrow;
+    margin-right: -1 * $right-sidebar-width;
     padding-left: 1em;
     padding-top: 1em !important;
   }
