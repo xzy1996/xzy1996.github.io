@@ -124,8 +124,8 @@ a {
 
 /* code */
 
-/*tt, code, kbd, samp, pre {*/ /*2024.7.8 change*/
-tt, code, samp, pre {
+tt, code, kbd, samp, pre { /*2024.7.8 change*/
+/*tt, code, samp, pre {*/
   font-family: $monospace;
 }
 
@@ -154,14 +154,14 @@ td > code {
 
 /* keyboard tag */ /*2024.7.8 added*/
 
-kbd {
+/*kbd {
   font-family: $monospace;
   font-size: $type-size-6;
   border-radius: 3px;
   padding: 1px 2px 0;
   border: 1px solid;
   background-color: $code-background-color;
-}
+}*/
 
 /* horizontal rule */
 
