@@ -30,7 +30,7 @@
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
-        <a style="text-decoration: none" href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h2>
     
@@ -83,27 +83,27 @@
     
     
     {% if post.citation and post.paperurl and post.Weblink and post.Bib %}
-      <p><strong>Recommended citation:</strong> {{ post.citation }}<br /><a href="{{ post.paperurl }}" target="_blank"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>  <a href="{{ post.Weblink }}" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>  <a href="{{ post.Bib }}" target="_blank"><i class="fas fa-fw fa-quote-right" aria-hidden="true"></i></a></p>
+      <p><strong>Recommended citation:</strong> {{ post.citation }}<br /><a href="{{ post.paperurl }}" target="_blank"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>  <a href="{{ post.Weblink }}" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>  <a href="{{ post.Bib }}" target="_blank"><i class="fas fa-fw fa-quote-right zoom" aria-hidden="true"></i></a></p>
     {% elsif post.citation and post.Weblink and post.Bib %}
-      <p><strong>Recommended citation:</strong> {{ post.citation }}<br /><a href="{{ post.Weblink }}" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>  <a href="{{ post.Bib }}" target="_blank"><i class="fas fa-fw fa-quote-right" aria-hidden="true"></i></a></p>
+      <p><strong>Recommended citation:</strong> {{ post.citation }}<br /><a href="{{ post.Weblink }}" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>  <a href="{{ post.Bib }}" target="_blank"><i class="fas fa-fw fa-quote-right zoom" aria-hidden="true"></i></a></p>
     {% elsif post.citation and post.paperurl and post.Weblink %}
       <p><strong>Recommended citation:</strong> {{ post.citation }}<br /><a href="{{ post.paperurl }}" target="_blank"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>  <a href="{{ post.Weblink }}" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></p>
     {% elsif post.citation and post.paperurl and post.Bib %}
-      <p><strong>Recommended citation:</strong> {{ post.citation }}<br /><a href="{{ post.paperurl }}" target="_blank"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>  <a href="{{ post.Bib }}" target="_blank"><i class="fas fa-fw fa-quote-right" aria-hidden="true"></i></a></p>
+      <p><strong>Recommended citation:</strong> {{ post.citation }}<br /><a href="{{ post.paperurl }}" target="_blank"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>  <a href="{{ post.Bib }}" target="_blank"><i class="fas fa-fw fa-quote-right zoom" aria-hidden="true"></i></a></p>
     {% elsif post.paperurl and post.Weblink and post.Bib %}
-      <p><a href="{{ post.paperurl }}" target="_blank"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>  <a href="{{ post.Weblink }}" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>  <a href="{{ post.Bib }}" target="_blank"><i class="fas fa-fw fa-quote-right" aria-hidden="true"></i></a></p>
+      <p><a href="{{ post.paperurl }}" target="_blank"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>  <a href="{{ post.Weblink }}" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>  <a href="{{ post.Bib }}" target="_blank"><i class="fas fa-fw fa-quote-right zoom" aria-hidden="true"></i></a></p>
     {% elsif post.citation and post.paperurl %}
       <p><strong>Recommended citation:</strong> {{ post.citation }}<br /><a href="{{ post.paperurl }}" target="_blank"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></p>
     {% elsif post.citation and post.Weblink %}
       <p><strong>Recommended citation:</strong> {{ post.citation }}<br /><a href="{{ post.Weblink }}" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></p>
     {% elsif post.citation and post.Bib %}
-      <p><strong>Recommended citation:</strong> {{ post.citation }}<br /><a href="{{ post.Bib }}" target="_blank"><i class="fas fa-fw fa-quote-right" aria-hidden="true"></i></a></p>
+      <p><strong>Recommended citation:</strong> {{ post.citation }}<br /><a href="{{ post.Bib }}" target="_blank"><i class="fas fa-fw fa-quote-right zoom" aria-hidden="true"></i></a></p>
     {% elsif post.Weblink and post.Bib %}
-      <p><a href="{{ post.Weblink }}" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>  <a href="{{ post.Bib }}" target="_blank"><i class="fas fa-fw fa-quote-right" aria-hidden="true"></i></a></p>
+      <p><a href="{{ post.Weblink }}" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>  <a href="{{ post.Bib }}" target="_blank"><i class="fas fa-fw fa-quote-right zoom" aria-hidden="true"></i></a></p>
     {% elsif post.paperurl and post.Weblink %}
       <p><a href="{{ post.paperurl }}" target="_blank"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>  <a href="{{ post.Weblink }}" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></p>
     {% elsif post.paperurl and post.Bib %}
-      <p><a href="{{ post.paperurl }}" target="_blank"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>  <a href="{{ post.Bib }}" target="_blank"><i class="fas fa-fw fa-quote-right" aria-hidden="true"></i></a></p>
+      <p><a href="{{ post.paperurl }}" target="_blank"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>  <a href="{{ post.Bib }}" target="_blank"><i class="fas fa-fw fa-quote-right zoom" aria-hidden="true"></i></a></p>
     {% elsif post.citation %}
       <p><strong>Recommended citation:</strong> {{ post.citation }}</p>
     {% elsif post.paperurl %}
@@ -111,7 +111,7 @@
     {% elsif post.Weblink %}
       <p><a href="{{ post.Weblink }}" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></p>
     {% elsif post.Bib %}
-      <p><a href="{{ post.Bib }}" target="_blank"><i class="fas fa-fw fa-quote-right" aria-hidden="true"></i></a></p>
+      <p><a href="{{ post.Bib }}" target="_blank"><i class="fas fa-fw fa-quote-right zoom" aria-hidden="true"></i></a></p>
     {% endif %}
 
   </article>
