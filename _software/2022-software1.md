@@ -17,7 +17,9 @@ Description: 'This software, developed on the Qt platform, provides a real-time 
 
 ------
 
+<p style="text-align:justify; text-justify:inter-ideograph;">
 This software, developed on the Qt platform, provides a real-time solution for the SINS/LDV integrated navigation system. It can collect data from high-precision 90 IMU, medium-precision 50 IMU, 1D-LDV, 2D-LDV, GNSS, and other devices, and complete real-time navigation solutions. It includes functions for:
+</p>
 
 * Serialport transceiver
 * Sensor data decoding
