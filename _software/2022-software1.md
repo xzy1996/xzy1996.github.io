@@ -1,5 +1,5 @@
 ---
-title: "SINS/LDV integrated navigation software (real time)"
+title: "SINS/LDV integrated navigation software (real-time)"
 collection: software
 permalink: /software/2022-software1
 name: '<i><strong>Zhiyi Xiang</strong></i>'
