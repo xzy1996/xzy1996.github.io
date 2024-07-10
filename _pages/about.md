@@ -41,9 +41,9 @@ Beyond my academic pursuits, I am an avid history and geography enthusiast, with
 ======
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/TIM2023.png"><img src='images/TIM2023.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
-<strong>Online Calibration Method for Pitch-Independent Laser Doppler Velocimeter Based on Improved Integrated Navigation Model</strong><br>
-<i><font color="#A52A2A"><strong>IEEE Transactions on Instrumentation and Measurement</strong></font><strong>, <font color="#4B0082">2023</font></strong></i><br>
-<i><font color="#006400"><strong>Zhiyi Xiang</strong>, Qi Wang, Rong Huang, Shilong Jin, Xiaoming Nie, Jian Zhou<sup>*</sup></font></i><br>
+<font color="#224b8d"><strong>Online Calibration Method for Pitch-Independent Laser Doppler Velocimeter Based on Improved Integrated Navigation Model</strong></font><br>
+<i><strong>Zhiyi Xiang</strong><font color="#224b8d">, Qi Wang, Rong Huang, Shilong Jin, Xiaoming Nie, Jian Zhou<sup>*</sup></font></i><br>
+<i><strong>IEEE Transactions on Instrumentation and Measurement, 2023</strong></i><br>
 <a href="https://ieeexplore.ieee.org/document/10251461/" target="_blank">paper</a>{: .btn--research} 
 </div>
 </div>
