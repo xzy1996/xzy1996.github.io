@@ -30,7 +30,7 @@ Beyond my academic pursuits, I am an avid history and geography enthusiast, with
 
 🎖 Honors and Awards
 ======
-- ***<font color="#4B0082">2024.06</font>***&nbsp;: &nbsp; IOP Trusted Reviewer status. [<a href="images/IOP Trusted Reviewer.png" target="_blank">link</a>]
+- ***<font color="#4B0082">2024.06</font>***&nbsp;: &nbsp; IOP Trusted Reviewer status. [&nbsp;<p style="text-decoration:none;"><a href="images/IOP Trusted Reviewer.png" target="_blank">link</a>&nbsp;]
 - ***<font color="#4B0082">2019.06</font>***&nbsp;: &nbsp; Outstanding Graduate for Excellence in Both Character and Academics by Anhui Province (安徽省品学兼优毕业生).
 <br>
 
