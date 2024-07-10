@@ -20,13 +20,13 @@ Beyond my academic pursuits, I am an avid history and geography enthusiast, with
 
 🔥 News
 ======
-- ***<font color="#4B0082">2024.06</font>***&nbsp;: &nbsp;🎉🎉🎉 I am honored to have been awarded the **<font color="#FF0000">IOP Trusted Reviewer status</font>** by the IOP Publishing Group.
+- ***<font color="#4B0082">2024.06</font>***&nbsp;: &nbsp;🎉🎉 I am honored to have been awarded the **<font color="#FF0000">IOP Trusted Reviewer status</font>** by the IOP Publishing Group.
 - ***<font color="#4B0082">2024.01</font>***&nbsp;: &nbsp;🎉🎉 1 paper accepted by ***<font color="#A52A2A">Measurement Science and Technology</font>***.
 - ***<font color="#4B0082">2023.11</font>***&nbsp;: &nbsp;🎉🎉 1 paper accepted by ***<font color="#A52A2A">IEEE Sensors Journal</font>***.
 - ***<font color="#4B0082">2023.08</font>***&nbsp;: &nbsp;🎉🎉 1 paper accepted by ***<font color="#A52A2A">IEEE Transactions on Instrumentation and Measurement</font>***.
 - ***<font color="#4B0082">2023.08</font>***&nbsp;: &nbsp;🎉🎉 1 paper accepted by ***<font color="#A52A2A">Measurement Science and Technology</font>***.
 - ***<font color="#4B0082">2022.07</font>***&nbsp;: &nbsp;🎉🎉 1 paper accepted by ***<font color="#A52A2A">IEEE Sensors Journal</font>***.
-- ***<font color="#4B0082">2021.12</font>***&nbsp;: &nbsp;🎉🎉🎉 Successfully defended my master's thesis: Research on In-Motion Initial Alignment Technology of Inertial Navigation System based on Laser Doppler Velocimeter.
+- ***<font color="#4B0082">2021.12</font>***&nbsp;: &nbsp;🎉🎉 Successfully defended my master's thesis: Research on In-Motion Initial Alignment Technology of Inertial Navigation System based on Laser Doppler Velocimeter.
 - ***<font color="#4B0082">2021.11</font>***&nbsp;: &nbsp;🎉🎉 1 paper accepted by ***<font color="#A52A2A">Measurement Science and Technology</font>***.
 - ***<font color="#4B0082">2021.08</font>***&nbsp;: &nbsp;🎉🎉 1 paper accepted by ***<font color="#A52A2A">Applied Optics</font>***.
 <br>
