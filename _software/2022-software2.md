@@ -17,7 +17,9 @@ Description: 'This software, developed on the Qt platform, provides an off-line 
 
 ------
 
+<p style="text-align:justify; text-justify:inter-ideograph;">
 This software, developed on the Qt platform, provides an off-line solution for the SINS/LDV integrated navigation system. It can process data from IMU, GNSS, LDV, OD, and SFV sensors offline. It includes functions for:
+</p>
 
 * Purely inertial navigation
 * SINS/GNSS integrated navigation (KF and AKF)
