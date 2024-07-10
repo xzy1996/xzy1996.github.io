@@ -72,7 +72,9 @@ layout: default
             </nav>
           </aside>
         {% endif %} -->
+        <h2 class="archive">
         {{ content }}
+        </h2>
 
         {% if page.paperurl and page.Weblink and page.Bib %}
           <p><a href="{{ page.paperurl }}" target="_blank"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>  <a href="{{ page.Weblink }}" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>  <a href="{{ page.Bib }}" target="_blank"><i class="fas fa-fw fa-quote-right zoom" aria-hidden="true"></i></a></p>
