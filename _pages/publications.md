@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap"><font color="#FF0000"><strong>You can also find my articles on</strong></font> <a style="text-decoration: none" href="{{site.author.googlescholar}}" target="_blank"><strong>my Google Scholar profile</strong></a>.</div>
+  <div class="wordwrap"><strong>You can also find my articles on</strong> <a style="text-decoration: none" href="{{site.author.googlescholar}}" target="_blank"><strong>my Google Scholar profile</strong></a>.</div>
 {% endif %}
 
 ------
