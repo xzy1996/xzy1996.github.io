@@ -38,3 +38,10 @@
 .container:hover .overlay {
   opacity: 0.25;
 }
+
+.colorchange {
+
+  &:hover {
+    color: #ff3300;
+  }
+}
