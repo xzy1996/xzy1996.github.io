@@ -48,3 +48,13 @@
     text-decoration: underline !important;
   }
 }
+
+.colorchangeonly {
+
+  /*text-decoration: none !important;*/
+
+  &:hover {
+    color: #ff3300;
+    /*text-decoration: underline !important;*/
+  }
+}
