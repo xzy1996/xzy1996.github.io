@@ -13,7 +13,7 @@ tags:
 
 # 王者级
 
-* **<a href="https://arc.aiaa.org/loi/jgcd" target="_blank">Journal of Guidance, Control, and Dynamics</a>** <font color="#FF0000"><strong>(IF: 2.3, JCR: Q1, 中科院: 3区)</strong></font>  
+* **<a href="https://arc.aiaa.org/loi/jgcd" target="_blank">Journal of Guidance, Control, and Dynamics</a>{: .colorchange}** <font color="#FF0000"><strong>(IF: 2.3, JCR: Q1, 中科院: 3区)</strong></font>  
 航空宇航领域最顶尖的刊物之一，许多经典的最优控制理论发表在该期刊上。尽管导航类文章很少，不是导航领域主流期刊，但一些最优控制理论的相关文章往往能给导航领域研究提供新的思路。 <a href="https://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=4604" target="_blank">LetPub</a>{: .btn--research}
 * **<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7" target="_blank">IEEE Transactions on Aerospace and Electronic Systems</a>** <font color="#FF0000"><strong>(IF: 5.1, JCR: Q1, 中科院: 2区TOP)</strong></font>  
 伟大，无需多言！组合导航领域认可度最高之一，只是影响因子一直不高。 <a href="https://www.letpub.com.cn/index.php?journalid=3360&page=journalapp&view=detail" target="_blank">LetPub</a>{: .btn--research}
