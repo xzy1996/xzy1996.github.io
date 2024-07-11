@@ -41,8 +41,10 @@
 
 .colorchange {
 
+  text-decoration: none !important;
+
   &:hover {
     color: #ff3300;
-    /*text-decoration: underline;*/
+    text-decoration: underline;
   }
 }
