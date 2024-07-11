@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <p style="text-align:justify; text-justify:inter-ideograph;">
-Hello! I am a Ph.D. candidate in Optical Engineering at the College of Advanced Interdisciplinary Studies, <div class='colorchangeonly'><a href="https://www.nudt.edu.cn/" target="_blank">National University of Defense Technology</a></div>. I was born in <a href="https://www.hnsn.gov.cn/hnsn/xzjsn/zjsn_newxx.shtml" target="_blank">Suining County</a>, Shaoyang City, Hunan Province, and grew up in <a href="https://www.hnloudi.gov.cn/loudi/zjld/zjld.shtml" target="_blank">Loudi City</a>, Hunan Province.
+Hello! I am a Ph.D. candidate in Optical Engineering at the College of Advanced Interdisciplinary Studies, <h2 class='colorchangeonly'><a href="https://www.nudt.edu.cn/" target="_blank">National University of Defense Technology</a></h2>. I was born in <a href="https://www.hnsn.gov.cn/hnsn/xzjsn/zjsn_newxx.shtml" target="_blank">Suining County</a>, Shaoyang City, Hunan Province, and grew up in <a href="https://www.hnloudi.gov.cn/loudi/zjld/zjld.shtml" target="_blank">Loudi City</a>, Hunan Province.
 <br>
 <br>
 My research interests lie in the fields of <a href="https://en.wikipedia.org/wiki/Laser_Doppler_velocimetry" target="_blank">Laser Doppler Velocimetry</a>, <a href="https://en.wikipedia.org/wiki/Inertial_navigation_system" target="_blank">Inertial Navigation Technology</a>, and <a href="https://link.springer.com/referenceworkentry/10.1007/978-981-10-6946-8_291" target="_blank">Integrated Navigation Technology</a>.  I am passionate about exploring the applications of these technologies to advance the field of navigation.
