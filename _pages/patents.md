@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <!--<div class="wordwrap"><strong>My patent can be found in the</strong> <a href="https://pss-system.cponline.cnipa.gov.cn/conventionalSearch" target="_blank"><strong>patent search section of the State Intellectual Property Office of China</strong></a>.</div>-->
-<strong>My patent can be found in the</strong> <a href="https://pss-system.cponline.cnipa.gov.cn/conventionalSearch" target="_blank"><strong>patent search section of the State Intellectual Property Office of China</strong></a>{: .colorchangeonly}.
+<strong>My patent can be found in the</strong> <a class='colorchangeonly' href="https://pss-system.cponline.cnipa.gov.cn/conventionalSearch" target="_blank"><strong>patent search section of the State Intellectual Property Office of China</strong></a>.
 
 ------
 
