@@ -14,19 +14,7 @@ tags:
 
 以下是王博士的一些美照，虽然无法完全体现她的美丽，但也足以养眼！
 
-<div class='paper-box'><div class='paper-box-image'>
-<center class ='img'>
-<div><a href="/images/post/Wang1.png"><img src='/images/post/Wang1.png' alt="sym" width="100%"></a></div>
-<div><a href="/images/post/Wang2.png"><img src='/images/post/Wang2.png' alt="sym" width="100%"></a></div>
-<div><a href="/images/post/Wang3.png"><img src='/images/post/Wang3.png' alt="sym" width="100%"></a></div>
-<br>
-<div><a href="/images/post/Wang4.png"><img src='/images/post/Wang4.png' alt="sym" width="100%"></a></div>
-<div><a href="/images/post/Wang5.png"><img src='/images/post/Wang5.png' alt="sym" width="100%"></a></div>
-<div><a href="/images/post/Wang6.png"><img src='/images/post/Wang6.png' alt="sym" width="100%"></a></div>
-</center>  
-</div></div>
-
-<div align="center" class='paper-box-image'>
+<div align="center">
 <img src='/images/post/Wang1.png' width="32%">
 <img src='/images/post/Wang2.png' width="32%">
 <img src='/images/post/Wang3.png' width="32%">
@@ -36,5 +24,18 @@ tags:
 <img src='/images/post/Wang6.png' width="32%">
 </div> 
 <br>
+
+<table>
+<tr>
+<td><center><img src='/images/post/Wang1.png'></center></td>
+<td><center><img src='/images/post/Wang2.png'></center></td>
+<td><center><img src='/images/post/Wang3.png'></center></td>
+</tr>
+<tr>
+<td><center><img src='/images/post/Wang4.png'></center></td>
+<td><center><img src='/images/post/Wang5.png'></center></td>
+<td><center><img src='/images/post/Wang6.png'></center></td>
+</tr>
+</table>
 
 ------
