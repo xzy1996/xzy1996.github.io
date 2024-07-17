@@ -14,7 +14,7 @@ tags:
 
 以下是王博士的一些美照，虽然无法完全体现她的美丽，但也足以养眼！
 
-<div align="center">
+<div align="center" style="line-height: 1">
 <img src='/images/post/Wang1.png' width="32%">
 <img src='/images/post/Wang2.png' width="32%">
 <img src='/images/post/Wang3.png' width="32%">
