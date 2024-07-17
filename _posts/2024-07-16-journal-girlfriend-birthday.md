@@ -27,13 +27,13 @@ tags:
 </div></div>-->
 
 <center class ='img'>
-<img src='images/xuelong3.png' width="32%">
-<img src='images/Wang2.png' width="32%">
-<img src='images/Wang3.png' width="32%">
+<img src='images/post/Wang1.png' width="32%">
+<img src='images/post/Wang2.png' width="32%">
+<img src='images/post/Wang3.png' width="32%">
 <br>
-<img src='images/Wang4.png' width="32%">
-<img src='images/Wang5.png' width="32%">
-<img src='images/Wang6.png' width="32%">
+<img src='images/post/Wang4.png' width="32%">
+<img src='images/post/Wang5.png' width="32%">
+<img src='images/post/Wang6.png' width="32%">
 </center>  
 <br>
 
