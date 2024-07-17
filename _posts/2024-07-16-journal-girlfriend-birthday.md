@@ -25,6 +25,8 @@ tags:
 <div><a href="images/post/Wang6.png"><img src='images/post/Wang6.png' alt="sym" width="32%"></a>
 </center>  
 </div></div>-->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/Wang1.png"><img src='images/Wang1.png' alt="sym" width="100%"></a></div></div>
+<br>
 <center class ='img'>
 <img src='images/Wang1.png' width="32%">
 <img src='images/Wang2.png' width="32%">
