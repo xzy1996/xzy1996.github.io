@@ -83,7 +83,7 @@ Beyond my academic pursuits, I am an avid enthusiast of history and geography, w
 ======
 - ***<font color="#4B0082">2019.04-2019.07</font>***&nbsp;: &nbsp;**Xuelong 2, Jiangnan Shipyard**, Shanghai.  
 <center class ='img'>
-<img src='images/post/Wang1.png' width="24%">
+<img src='images/xuelong3.png' width="24%">
 <img src='images/xuelong4.png' width="24%">
 <img src='images/xuelong1.png' width="24%">
 <img src='images/xuelong2.png' width="24%">
