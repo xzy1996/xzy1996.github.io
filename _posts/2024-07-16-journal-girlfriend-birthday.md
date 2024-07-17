@@ -26,7 +26,7 @@ tags:
 </center>  
 </div></div>
 
-<div align="center" class='paper-box-image'>>
+<div align="center" class='paper-box-image'>
 <img src='/images/post/Wang1.png' width="32%">
 <img src='/images/post/Wang2.png' width="32%">
 <img src='/images/post/Wang3.png' width="32%">
