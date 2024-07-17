@@ -23,10 +23,6 @@ tags:
 <div><a href="images/post/Wang4.png"><img src='images/post/Wang4.png' alt="sym" width="32%"></a>
 <div><a href="images/post/Wang5.png"><img src='images/post/Wang5.png' alt="sym" width="32%"></a>
 <div><a href="images/post/Wang6.png"><img src='images/post/Wang6.png' alt="sym" width="32%"></a>
-</center>  
-</div></div>-->
-
-<center class ='img'>
 <img src='images/post/Wang1.png' width="32%">
 <img src='images/post/Wang2.png' width="32%">
 <img src='images/post/Wang3.png' width="32%">
@@ -34,6 +30,17 @@ tags:
 <img src='images/post/Wang4.png' width="32%">
 <img src='images/post/Wang5.png' width="32%">
 <img src='images/post/Wang6.png' width="32%">
+</center>  
+</div></div>-->
+
+<center class ='img'>
+![](/images/post/Wang1.png width="32%)
+![](/images/post/Wang2.png width="32%)
+![](/images/post/Wang3.png width="32%)
+<br>
+![](/images/post/Wang4.png width="32%)
+![](/images/post/Wang5.png width="32%)
+![](/images/post/Wang6.png width="32%)
 </center>  
 <br>
 
