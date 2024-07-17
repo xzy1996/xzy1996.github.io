@@ -25,9 +25,9 @@ tags:
 <div><a href="images/post/Wang6.png"><img src='images/post/Wang6.png' alt="sym" width="32%"></a>
 </center>  
 </div></div>-->
-<b>
+
 <center class ='img'>
-<img src='images/Wang1.png' width="32%">
+<img src='images/xuelong3.png' width="32%">
 <img src='images/Wang2.png' width="32%">
 <img src='images/Wang3.png' width="32%">
 <br>
@@ -36,6 +36,5 @@ tags:
 <img src='images/Wang6.png' width="32%">
 </center>  
 <br>
-</b>
 
 ------
