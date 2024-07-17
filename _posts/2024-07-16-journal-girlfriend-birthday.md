@@ -34,6 +34,7 @@ tags:
 </div></div>-->
 
 <center>
+<figure>
 <img src='images/post/Wang1.png' width="32%">
 <img src='images/post/Wang2.png' width="32%">
 <img src='images/post/Wang3.png' width="32%">
@@ -41,14 +42,11 @@ tags:
 <img src='images/post/Wang4.png' width="32%">
 <img src='images/post/Wang5.png' width="32%">
 <img src='images/post/Wang6.png' width="32%">
+</figure>
 </center>  
 <br>
-![](/images/post/Wang1.png)
-![](/images/post/Wang2.png)
-![](/images/post/Wang3.png)
+![](/images/post/Wang1.png)![](/images/post/Wang2.png)![](/images/post/Wang3.png)
 <br>
-![](/images/post/Wang4.png)
-![](/images/post/Wang5.png)
-![](/images/post/Wang6.png)
+![](/images/post/Wang4.png)![](/images/post/Wang5.png)![](/images/post/Wang6.png)
 
 ------
