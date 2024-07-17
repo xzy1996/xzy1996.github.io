@@ -25,7 +25,7 @@ tags:
 </div> 
 <br>
 
-<table>
+<table rules="none">
 <tr>
 <td><center><img src='/images/post/Wang1.png'></center></td>
 <td><center><img src='/images/post/Wang2.png'></center></td>
