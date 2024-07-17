@@ -29,10 +29,10 @@ tags:
 <img src='images/Wang1.png' width="32%">
 <img src='images/Wang2.png' width="32%">
 <img src='images/Wang3.png' width="32%">
-<bar>
+<br>
 <img src='images/Wang4.png' width="32%">
 <img src='images/Wang5.png' width="32%">
 <img src='images/Wang6.png' width="32%">
 </center>  
-
+<br>
 ------
