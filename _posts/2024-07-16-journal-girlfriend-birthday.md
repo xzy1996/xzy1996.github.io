@@ -14,14 +14,16 @@ tags:
 
 以下是王博士的一些美照，虽然无法完全体现她的美丽，但也足以养眼！
 
+<div class='paper-box'><div class='paper-box-image'>
 <center class ='img'>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/post/Wang1.png"><img src='images/post/Wang1.png' alt="sym" width="32%"></a></div></div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/post/Wang2.png"><img src='images/post/Wang2.png' alt="sym" width="32%"></a></div></div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/post/Wang3.png"><img src='images/post/Wang3.png' alt="sym" width="32%"></a></div></div>
+<div><a href="images/post/Wang1.png"><img src='images/post/Wang1.png' alt="sym" width="32%"></a>
+<div><a href="images/post/Wang2.png"><img src='images/post/Wang2.png' alt="sym" width="32%"></a>
+<div><a href="images/post/Wang3.png"><img src='images/post/Wang3.png' alt="sym" width="32%"></a>
 <br>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/post/Wang4.png"><img src='images/post/Wang4.png' alt="sym" width="32%"></a></div></div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/post/Wang5.png"><img src='images/post/Wang5.png' alt="sym" width="32%"></a></div></div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/post/Wang6.png"><img src='images/post/Wang6.png' alt="sym" width="32%"></a></div></div>
+<div><a href="images/post/Wang4.png"><img src='images/post/Wang4.png' alt="sym" width="32%"></a>
+<div><a href="images/post/Wang5.png"><img src='images/post/Wang5.png' alt="sym" width="32%"></a>
+<div><a href="images/post/Wang6.png"><img src='images/post/Wang6.png' alt="sym" width="32%"></a>
 </center>  
+</div></div>
 
 ------
