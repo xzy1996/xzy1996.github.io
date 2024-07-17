@@ -33,15 +33,22 @@ tags:
 </center>  
 </div></div>-->
 
-<center class ='img'>
-![](/images/post/Wang1.png width="32%)
-![](/images/post/Wang2.png width="32%)
-![](/images/post/Wang3.png width="32%)
+<center>
+<img src='images/post/Wang1.png' width="32%">
+<img src='images/post/Wang2.png' width="32%">
+<img src='images/post/Wang3.png' width="32%">
 <br>
-![](/images/post/Wang4.png width="32%)
-![](/images/post/Wang5.png width="32%)
-![](/images/post/Wang6.png width="32%)
+<img src='images/post/Wang4.png' width="32%">
+<img src='images/post/Wang5.png' width="32%">
+<img src='images/post/Wang6.png' width="32%">
 </center>  
 <br>
+![](/images/post/Wang1.png)
+![](/images/post/Wang2.png)
+![](/images/post/Wang3.png)
+<br>
+![](/images/post/Wang4.png)
+![](/images/post/Wang5.png)
+![](/images/post/Wang6.png)
 
 ------
