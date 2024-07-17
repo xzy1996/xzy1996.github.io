@@ -19,23 +19,12 @@ tags:
 <img src='/images/post/Wang2.png' width="32%">
 <img src='/images/post/Wang3.png' width="32%">
 <br>
+<br>
 <img src='/images/post/Wang4.png' width="32%">
 <img src='/images/post/Wang5.png' width="32%">
 <img src='/images/post/Wang6.png' width="32%">
 </div> 
 <br>
 
-<table rules="none">
-<tr>
-<td><center><img src='/images/post/Wang1.png'></center></td>
-<td><center><img src='/images/post/Wang2.png'></center></td>
-<td><center><img src='/images/post/Wang3.png'></center></td>
-</tr>
-<tr>
-<td><center><img src='/images/post/Wang4.png'></center></td>
-<td><center><img src='/images/post/Wang5.png'></center></td>
-<td><center><img src='/images/post/Wang6.png'></center></td>
-</tr>
-</table>
 
 ------
