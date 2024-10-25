@@ -1,7 +1,7 @@
 ---
 title: '王博士生日快乐'
 date: 2024-07-16
-permalink: /posts/2024-07-16-journal-girlfriend-birthday
+permalink: /posts/2024-07-16-personage-girlfriend-birthday
 toc: true
 tags:
   - girlfriend
