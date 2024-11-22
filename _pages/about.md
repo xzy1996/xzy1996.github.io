@@ -43,7 +43,7 @@ Beyond my academic pursuits, I am an avid enthusiast of history and geography, w
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/TIM2024.png"><img src='images/TIM2024.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 <strong>LSTM-Assisted SINS/2D-LDV Tightly Coupled Integration Approach Using Local Outlier Factor and Adaptive Filter</strong><br>
-<i><font color="#A52A2A"><strong>IEEE Transactions on Instrumentation and Measurement</strong></font><strong>, <font color="#4B0082">2023</font></strong></i><br>
+<i><font color="#A52A2A"><strong>IEEE Transactions on Instrumentation and Measurement</strong></font><strong>, <font color="#4B0082">2024</font></strong></i><br>
 <i><font color="#006400"><strong>Zhiyi Xiang</strong>, Qi Wang, Xiaoming Nie, Shilong Jin<sup>*</sup>, Jian Zhou<sup>*</sup></font></i><br>
 <a href="https://ieeexplore.ieee.org/document/10758723/" target="_blank">paper</a>{: .btn--research} 
 </div>
