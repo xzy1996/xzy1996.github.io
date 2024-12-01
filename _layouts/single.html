@@ -58,7 +58,9 @@ layout: default
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}   
         
-        
+        {% if page.DOI %}
+          <p><a class='colorchangeonly' href="{{ page.DOI }}" target="_blank"><font color="#696969"><strong><i>{{ page.DOIword }}</i></strong></font></a> </p>
+        end
 
         </header>
       {% endunless %}
