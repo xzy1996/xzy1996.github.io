@@ -38,7 +38,8 @@ layout: default
         {% if page.collection == 'teaching' %}
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.venue and page.date %}
-          <p><font color="#4B0082"><strong><i>{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</i></strong></font>. <font color="#A52A2A"><strong><i>{{ page.venue }}</i></strong></font> </p>
+          <!--<p><font color="#4B0082"><strong><i>{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</i></strong></font> . <font color="#A52A2A"><strong><i>{{ page.venue }}</i></strong></font> </p>-->
+          <p><font color="#4B0082"><strong><i>{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</i></strong></font> . <a class='colorchangeJournal' href="{{ page.Journallink }}" target="_blank"><font color="#A52A2A"><strong><i>{{ page.venue }}</i></strong></font></a> </p>
         {% elsif page.School and page.date %}
           <p><font color="#A52A2A"><strong><i>{{ page.School }}</i></strong></font> <font color="#4B0082"><strong><i>{{ page.date | default: "1900-01-01" | date: "%Y" }}</i></strong></font> </p>
         {% elsif page.collection == 'patents' %}
