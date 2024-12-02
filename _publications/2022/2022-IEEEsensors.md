@@ -9,6 +9,9 @@ paperurl: '/files/pub/2022 IEEEsensors Alignment.pdf'
 citation: 'Z. Xiang, Q. Wang, R. Huang, C. Xi, X. Nie, and J. Zhou, &quot;A Fast Robust In-Motion Alignment Method for Laser Doppler Velocimeter-Aided Strapdown Inertial Navigation System,&quot; <i>IEEE. Sensors. J</i>, vol. 22, no. 17, p. 17254-17265, Sep. 2022.'
 Bib: '/files/Bib/IEEEsensors-2022.bib'
 Weblink: 'https://ieeexplore.ieee.org/document/9841423'
+Journallink: 'https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361'
+DOI: 'http://dx.doi.org/10.1109/JSEN.2022.3191120'
+DOIword: 'DOI: 10.1109/JSEN.2022.3191120'
 ---
 
 <font color="#006400"><i><strong>Zhiyi Xiang</strong>, Qi Wang, Rong Huang, Chongbin Xi, Xiaoming Nie, Jian Zhou<sup>*</sup></i></font>
