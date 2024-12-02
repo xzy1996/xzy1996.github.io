@@ -58,3 +58,13 @@
     /*text-decoration: underline !important;*/
   }
 }
+
+.colorchangeDOI {
+
+  text-decoration: none !important;
+
+  &:hover {
+    color: #696969;
+    text-decoration: underline !important;
+  }
+}
