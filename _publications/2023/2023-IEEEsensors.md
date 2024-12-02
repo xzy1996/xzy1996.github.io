@@ -9,6 +9,9 @@ paperurl: '/files/pub/2023 IEEEsensors Calibration.pdf'
 citation: 'Z. Xiang, Q. Wang, R. Huang, S. Jin, X. Nie, and J. Zhou, &quot;A Robust Online Calibration Method for SINS/LDV Integrated Navigation System Based on Position Observation,&quot; <i>IEEE. Sensors. J</i>, vol. 24, no. 1, p. 895-908, Jan. 2024.'
 Bib: '/files/Bib/IEEEsensors-2023.bib'
 Weblink: 'https://ieeexplore.ieee.org/abstract/document/10328480'
+Journallink: 'https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361'
+DOI: 'http://dx.doi.org/10.1109/JSEN.2023.3333898'
+DOIword: 'DOI: 10.1109/JSEN.2023.3333898'
 ---
 
 <font color="#006400"><i><strong>Zhiyi Xiang</strong>, Qi Wang, Rong Huang, Shilong Jin, Xiaoming Nie, Jian Zhou<sup>*</sup></i></font>
