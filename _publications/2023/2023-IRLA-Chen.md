@@ -9,6 +9,9 @@ paperurl: 'https://www.researching.cn/ArticlePdf/m00018/2023/52/6/20230143.pdf'
 citation: 'L. Chen, C. Xi, J. Zhou, X. Nie, Q. Wang, R. Huang, Z. Xiang, and S. Jin, &quot;Review of laser Doppler velocimeter technology for navigation and localization,&quot; <i>Infrared. Laser. Engineering</i>, vol. 52, no. 6, p. 20230143-13, Jun. 2023.'
 #Bib: '/files/Bib/MST-2024.bib'
 Weblink: 'http://irla.cn/article/doi/10.3788/IRLA20230143'
+Journallink: 'https://www.opticsjournal.net/J/irla.html'
+DOI: 'http://dx.doi.org/10.3788/IRLA20230143'
+DOIword: 'DOI: 10.3788/IRLA20230143'
 ---
 
 <font color="#006400"><i>Lanjian Chen, Chongbin Xi, Jian Zhou<sup>*</sup>, Xiaoming Nie, Qi Wang, Rong Huang, <strong>Zhiyi Xiang</strong>, Shilong Jin</i></font>
