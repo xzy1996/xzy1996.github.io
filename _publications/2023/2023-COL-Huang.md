@@ -5,7 +5,7 @@ permalink: /publication/2023/2023-COL-Huang
 name: '<i>Rong Huang, Qi Wang, <strong>Zhiyi Xiang</strong>, Xiaoming Nie, Jian Zhou<sup>*</sup>, Hui Luo</i>'
 date: 2023-09-10
 venue: 'Chinese Optics Letters'
-#paperurl: '/files/pub/2024 MST Calibration.pdf'
+paperurl: 'https://www.researching.cn/ArticlePdf/m00005/2023/21/9/090005.pdf'
 citation: 'R. Huang, Q. Wang, Z. Xiang, X. Nie, J. Zhou, and H. Luo, &quot;Water track laser Doppler velocimeter,&quot; <i>Chin. Opt. Lett</i>, vol. 21, no. 9, p. 090005, Sep. 2023.'
 #Bib: '/files/Bib/MST-2024.bib'
 Weblink: 'https://opg.optica.org/col/abstract.cfm?URI=col-21-9-090005'
