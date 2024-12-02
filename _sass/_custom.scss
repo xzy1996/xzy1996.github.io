@@ -69,3 +69,14 @@
     text-decoration: underline !important;
   }
 }
+
+.colorchangeJournal {
+
+  $link-color                 : #A52A2A;
+  text-decoration: none !important;
+
+  &:hover {
+    color: #A52A2A;
+    text-decoration: underline !important;
+  }
+}
