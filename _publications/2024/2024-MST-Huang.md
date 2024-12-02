@@ -5,7 +5,7 @@ permalink: /publication/2024/2024-MST-Huang
 name: '<i>Rong Huang, Qi Wang, <strong>Zhiyi Xiang</strong>, Xiaoming Nie, Jian Zhou<sup>*</sup>, Hui Luo</i>'
 date: 2024-02-02
 venue: 'Measurement Science and Technology'
-#paperurl: '/files/pub/2024 MST Calibration.pdf'
+paperurl: 'https://www.researchgate.net/journal/Measurement-Science-and-Technology-1361-6501/publication/377650281_A_water_track_laser_Doppler_velocimeter_for_use_in_underwater_navigation/links/65bdb7b879007454975ff757/A-water-track-laser-Doppler-velocimeter-for-use-in-underwater-navigation.pdf?origin=publicationSearch&_rtd=e30%3D&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InByb2ZpbGUiLCJwYWdlIjoic2VhcmNoIiwicG9zaXRpb24iOiJwYWdlSGVhZGVyIn19'
 citation: 'R. Huang, Q. Wang, Z. Xiang, X. Nie, J. Zhou, and H. Luo, &quot;A water track laser Doppler velocimeter for use in underwater navigation,&quot; <i>Meas. Sci. Technol</i>, vol. 35, no. 5, p. 056301, Feb. 2024.'
 #Bib: '/files/Bib/MST-2024.bib'
 Weblink: 'https://iopscience.iop.org/article/10.1088/1361-6501/ad21d6'
