@@ -9,6 +9,9 @@ venue: 'Chinese Optics Letters'
 citation: 'R. Huang, Q. Wang, Z. Xiang, X. Nie, J. Zhou, and H. Luo, &quot;Water track laser Doppler velocimeter,&quot; <i>Chin. Opt. Lett</i>, vol. 21, no. 9, p. 090005, Sep. 2023.'
 #Bib: '/files/Bib/MST-2024.bib'
 Weblink: 'https://opg.optica.org/col/abstract.cfm?URI=col-21-9-090005'
+Journallink: 'https://www.researching.cn/col'
+DOI: 'http://dx.doi.org/10.3788/COL202321.090005'
+DOIword: 'DOI: 10.3788/COL202321.090005'
 ---
 
 <font color="#006400"><i>Rong Huang, Qi Wang, <strong>Zhiyi Xiang</strong>, Xiaoming Nie, Jian Zhou<sup>*</sup>, Hui Luo</i></font>
