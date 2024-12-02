@@ -9,6 +9,9 @@ venue: 'Measurement Science and Technology'
 citation: 'R. Huang, Q. Wang, Z. Xiang, X. Nie, J. Zhou, and H. Luo, &quot;A water track laser Doppler velocimeter for use in underwater navigation,&quot; <i>Meas. Sci. Technol</i>, vol. 35, no. 5, p. 056301, Feb. 2024.'
 #Bib: '/files/Bib/MST-2024.bib'
 Weblink: 'https://iopscience.iop.org/article/10.1088/1361-6501/ad21d6'
+Journallink: 'https://iopscience.iop.org/journal/0957-0233'
+DOI: 'http://dx.doi.org/10.1088/1361-6501/ad21d6'
+DOIword: 'DOI: 10.1088/1361-6501/ad21d6'
 ---
 
 <font color="#006400"><i>Rong Huang, Qi Wang, <strong>Zhiyi Xiang</strong>, Xiaoming Nie, Jian Zhou<sup>*</sup>, Hui Luo</i></font>
