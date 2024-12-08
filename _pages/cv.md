@@ -7,9 +7,10 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 You can download a PDF copy of my CV [here](/files/CV/Zhiyi Xiang CV.pdf).
 ------
+
+{% include base_path %}
 
 Education
 ======
