@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 You can download a PDF copy of my CV [here](/files/CV/Zhiyi Xiang CV.pdf).
+------
 
 Education
 ======
