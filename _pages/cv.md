@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<strong>You can download a PDF copy of my CV</strong> <a class='colorchangeonly' href="{{/files/CV/Zhiyi Xiang CV.pdf}}" target="_blank"><strong>here</strong></a>
+<strong>You can download a PDF copy of my CV</strong> <a class='colorchangeonly' href="/files/CV/Zhiyi Xiang CV.pdf" target="_blank"><strong>here</strong></a>
 
 ------
 
