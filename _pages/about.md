@@ -20,8 +20,8 @@ Beyond my academic pursuits, I am an avid enthusiast of history and geography, w
 
 🔥 News
 ======
-- ***<font color="#4B0082">2025.02</font>***&nbsp;: &nbsp;🎉🎉 1 paper accepted by ***<font color="#A52A2A">Engineering Applications of Artificial Intelligence</font>***.
-- ***<font color="#4B0082">2025.02</font>***&nbsp;: &nbsp;🎉🎉 1 paper accepted by ***<font color="#A52A2A">Scientific Reports</font>***.
+- ***<font color="#4B0082">2025.12</font>***&nbsp;: &nbsp;🎉🎉 1 paper accepted by ***<font color="#A52A2A">Engineering Applications of Artificial Intelligence</font>***.
+- ***<font color="#4B0082">2025.10</font>***&nbsp;: &nbsp;🎉🎉 1 paper accepted by ***<font color="#A52A2A">Scientific Reports</font>***.
 - ***<font color="#4B0082">2025.02</font>***&nbsp;: &nbsp;🎉🎉 1 paper accepted by ***<font color="#A52A2A">IEEE Transactions on Vehicular Technology</font>***.
 - ***<font color="#4B0082">2024.10</font>***&nbsp;: &nbsp;🎉🎉 1 paper accepted by ***<font color="#A52A2A">IEEE Transactions on Instrumentation and Measurement</font>***.
 - ***<font color="#4B0082">2024.06</font>***&nbsp;: &nbsp;🎉🎉 I am honored to have been awarded the **<font color="#FF0000">IOP Trusted Reviewer status</font>** by the IOP Publishing Group.
