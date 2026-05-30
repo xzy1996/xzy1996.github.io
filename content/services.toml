@@ -19,7 +19,7 @@ content = """
 **CAS Q1** | IEEE Internet of Things Journal (IoTJ)  
 **CAS Q2** | IEEE Sensors Journal  
 **CAS Q4** | IEEE Sensors Letters  
-**CAS Q3**  | IEEE Journal of Selected Areas in Sensors
+**CAS Q3** | IEEE Journal of Selected Areas in Sensors
 """
 
 [[items]]
@@ -55,7 +55,7 @@ content = """
 """
 
 [[items]]
-title = "Taylor and Francis"
+title = "Taylor & Francis"
 subtitle = "Invited Reviewer"
 date = "2022–Present"
 content = """
