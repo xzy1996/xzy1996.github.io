@@ -1,3 +1,7 @@
 type = "text"
 title = "CV"
+description = "A concise overview of my education, research experience, publications, patents, skills, and academic service."
 source = "cv.md"
+pdf = "/cv/Zhiyi_Xiang_CV_EN.pdf"
+pdf_label = "View full PDF CV"
+download_label = "Download CV"
