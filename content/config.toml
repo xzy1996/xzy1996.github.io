@@ -1,13 +1,13 @@
 [site]
-title = "Jiale Liu"
-description = "PhD student at the University of Example."
-favicon = "/favicon.svg"
-last_updated = "November 18, 2025"
+title = "Zhiyi Xiang"
+description = "PhD student at the National University of Defense Technology."
+favicon = "/favicon-32x32"
+last_updated = "May 30, 2026"
 
 [author]
-name = "Jiale Liu"
+name = "Zhiyi Xiang"
 title = "PhD Student"
-institution = "University of Example"
+institution = "National University of Defense Technology"
 avatar = "/bio.jpg"
 
 [social]
