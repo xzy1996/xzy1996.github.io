@@ -1,5 +1,5 @@
-I am a PhD student at the School of Science, University of Example, advised by [Prof. Advisor One](https://example.com) and [Dr. Advisor Two](https://example.com).
+Hello! My name is Zhiyi Xiang. I was born in [Suining County](https://www.hnsn.gov.cn/hnsn/xzjsn/zjsn_newxx.shtml), Shaoyang City, Hunan Province, and grew up in [Loudi City](https://www.hnloudi.gov.cn/loudi/zjld/zjld.shtml), Hunan Province. I am currently a Ph.D. candidate in Optical Engineering at the College of Advanced Interdisciplinary Studies, [National University of Defense Technology](https://www.nudt.edu.cn/), under the supervision of Prof. Shilong Jin and Associate Prof. Jian Zhou at the Laser Gyro Research Institute.
 
-Prior to this, I obtained a BSc degree with First Class Honours in Natural Science from the University of Example.
+My research interests include Laser Doppler Velocimetry, Inertial Navigation Technology, and Integrated Navigation Technology. I am passionate about exploring innovative applications of these technologies to advance the field of navigation.
 
-My current research focuses on investigating the mathematical principles of natural philosophy.
+Beyond my academic pursuits, I am an avid enthusiast of history and geography, with a particular interest in Chinese history. I also enjoy gaming, with favorites such as League of Legends, Naraka: Bladepoint, GTA V, Red Dead Redemption 2, The Witcher 3, Monster Hunter: World, and the Battlefield series. Additionally, I have spent over 200 hours immersed in Civilization VI and No Man’s Sky.
