@@ -24,6 +24,6 @@ limit = 5
 [[sections]]
 id = "news"
 type = "list"
-title = "News"
+title = "Recent Updates"
 source = "news.toml"
 
