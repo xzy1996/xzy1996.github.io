@@ -1,3 +1,7 @@
 type = "text"
 title = "简历"
+description = "我的教育背景、科研经历、论文发表、专利成果、技术能力与学术服务概览。"
 source = "cv.md"
+pdf = "/cv/Zhiyi_Xiang_CV_CN.pdf"
+pdf_label = "在线查看完整简历"
+download_label = "下载简历"
