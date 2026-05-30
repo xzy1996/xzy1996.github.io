@@ -1,27 +1,27 @@
 type = "card"
-title = "奖项"
-description = "我获得的荣誉与奖项。"
+title = "荣誉奖励"
+description = "我获得的荣誉与奖励。"
 
 [[items]]
-title = "示例奖项"
-subtitle = "颁发机构"
-date = "2025"
-content = "奖项说明。"
+title = "安徽省品学兼优毕业生"
+subtitle = "安徽省教育厅"
+date = "2019"
+content = "本科期间因优秀的学业成绩、综合表现和个人品德获评。"
 
 [[items]]
-title = "示例奖项"
-subtitle = "颁发机构"
-date = "2024"
-content = "奖项说明。"
-
-[[items]]
-title = "示例奖项"
-subtitle = "颁发机构"
-date = "2023"
-content = "奖项说明。"
-
-[[items]]
-title = "示例奖项"
-subtitle = "颁发机构"
+title = "一等新生奖学金"
+subtitle = "国防科技大学"
 date = "2022"
-content = "奖项说明。"
+content = "因入学前优异的学业基础和良好的研究潜力获评。"
+
+[[items]]
+title = "IOP Trusted Reviewer"
+subtitle = "IOP Publishing"
+date = "2024"
+content = "因在 IOP Publishing 期刊审稿中展现出良好的同行评审能力，并持续提交高质量、有价值的审稿意见而获评。"
+
+[[items]]
+title = "校优秀奖学金"
+subtitle = "国防科技大学"
+date = "2025"
+content = "因在国防科技大学学习期间取得优秀的学业表现和科研成果获评。"
