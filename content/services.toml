@@ -3,7 +3,61 @@ title = "Services"
 description = "Professional services and community involvement."
 
 [[items]]
-title = "Reviewer"
-subtitle = "Journal Name"
-date = "2024"
-content = "Reviewed papers for..."
+title = "IEEE"
+subtitle = "Invited Reviewer"
+date = "2022–Present"
+content = """
+**CAS Q1** | IEEE Transactions on Information Forensics & Security (TIFS)  
+**CAS Q1** | IEEE Transactions on Industrial Informatics (TII)  
+**CAS Q1** | IEEE Transactions on Industrial Electronics (TIE)
+**CAS Q1** | IEEE/ASME Transactions on Mechatronics (TMECH)  
+**CAS Q1** | IEEE Transactions on Cybernetics (TCYB)
+**CAS Q1** | IEEE Transactions on Intelligent Transportation Systems (TITS)  
+**CAS Q2** | IEEE Transactions on Automation Science and Engineering (TASE)
+**CAS Q2** | IEEE Transactions on Vehicular Technology (TVT)
+**CAS Q2** | IEEE Transactions on Instrumentation and Measurement (TIM)
+**CAS Q1** | IEEE Internet of Things Journal (IoTJ)
+**CAS Q2** | IEEE Sensors Journal
+**CAS Q4** | IEEE Sensors Letters
+           | IEEE Journal of Selected Areas in Sensors
+"""
+
+[[items]]
+title = "Elsevier"
+subtitle = "Invited Reviewer"
+date = "2022–Present"
+content = """
+**CAS Q2** | Measurement  
+"""
+
+[[items]]
+title = "IOP"
+subtitle = "Invited Reviewer"
+date = "2022–Present"
+content = """
+**CAS Q3** | Measurement Science and Technology  
+"""
+
+[[items]]
+title = "Wiley"
+subtitle = "Invited Reviewer"
+date = "2022–Present"
+content = """
+**CAS Q3** | Navigation-Journal of the Institute of Navigation  
+"""
+
+[[items]]
+title = "Springer Nature"
+subtitle = "Invited Reviewer"
+date = "2022–Present"
+content = """
+**CAS Q3** | Scientific Reports  
+"""
+
+[[items]]
+title = "Taylor and Francis"
+subtitle = "Invited Reviewer"
+date = "2022–Present"
+content = """
+**CAS Q4** | Ships and Offshore Structures  
+"""
