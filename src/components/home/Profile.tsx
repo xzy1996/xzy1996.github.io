@@ -32,10 +32,38 @@ const ResearchGateIcon = ({ className }: { className?: string }) => (
   <svg
     className={className}
     viewBox="0 0 24 24"
-    fill="currentColor"
+    fill="none"
     aria-hidden="true"
+    focusable="false"
   >
-    <path d="M19.586 0H4.414A4.414 4.414 0 0 0 0 4.414v15.172A4.414 4.414 0 0 0 4.414 24h15.172A4.414 4.414 0 0 0 24 19.586V4.414A4.414 4.414 0 0 0 19.586 0zM8.13 16.59H6.344V7.41h3.866c2.11 0 3.356 1.08 3.356 2.93 0 1.31-.635 2.19-1.723 2.58l2.067 3.67h-2.02l-1.84-3.34H8.13v3.34zm0-4.86h1.826c1.13 0 1.75-.47 1.75-1.36 0-.87-.62-1.34-1.75-1.34H8.13v2.7zm9.49 4.98c-2.01 0-3.32-1.39-3.32-3.53 0-2.16 1.32-3.6 3.29-3.6 1.86 0 3.05 1.28 3.05 3.28v.64h-4.6c.08 1.1.7 1.77 1.66 1.77.68 0 1.15-.28 1.42-.84h1.45c-.33 1.42-1.43 2.28-2.95 2.28zm-1.56-4.31h2.91c-.04-.92-.58-1.48-1.41-1.48-.84 0-1.39.56-1.5 1.48z" />
+    <rect
+      x="3"
+      y="3"
+      width="18"
+      height="18"
+      rx="1.5"
+      fill="currentColor"
+    />
+    <text
+      x="6.1"
+      y="16.2"
+      fontFamily="Georgia, 'Times New Roman', serif"
+      fontSize="13"
+      fontWeight="400"
+      fill="white"
+    >
+      R
+    </text>
+    <text
+      x="14.1"
+      y="10.2"
+      fontFamily="Georgia, 'Times New Roman', serif"
+      fontSize="5"
+      fontWeight="400"
+      fill="white"
+    >
+      G
+    </text>
   </svg>
 );
 
