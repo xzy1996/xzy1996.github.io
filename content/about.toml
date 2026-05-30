@@ -26,9 +26,3 @@ id = "news"
 type = "list"
 title = "Recent Updates"
 source = "news.toml"
-
-[[sections]]
-id = "items"
-type = "list"
-title = "Awards"
-source = "awards.toml"
