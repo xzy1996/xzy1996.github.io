@@ -11,7 +11,7 @@ import {
 } from '@heroicons/react/24/outline';
 import { MapPinIcon as MapPinSolidIcon, EnvelopeIcon as EnvelopeSolidIcon } from '@heroicons/react/24/solid';
 import { HeartIcon as HeartSolidIcon } from '@heroicons/react/24/solid';
-import { Github, Linkedin, Pin } from 'lucide-react';
+import { Github, Pin } from 'lucide-react';
 import type { SiteConfig } from '@/lib/config';
 import { useMessages } from '@/lib/i18n/useMessages';
 
@@ -25,6 +25,18 @@ const OrcidIcon = ({ className }: { className?: string }) => (
     >
         <path d="M12 0C5.372 0 0 5.372 0 12s5.372 12 12 12 12-5.372 12-12S18.628 0 12 0zM7.369 4.378c.525 0 .947.431.947.947s-.422.947-.947.947a.95.95 0 0 1-.947-.947c0-.525.422-.947.947-.947zm-.722 3.038h1.444v10.041H6.647V7.416zm3.562 0h3.9c3.712 0 5.344 2.653 5.344 5.025 0 2.578-2.016 5.025-5.325 5.025h-3.919V7.416zm1.444 1.303v7.444h2.297c3.272 0 4.022-2.484 4.022-3.722 0-2.016-1.284-3.722-4.097-3.722h-2.222z" />
     </svg>
+);
+
+// Custom ResearchGate icon component
+const ResearchGateIcon = ({ className }: { className?: string }) => (
+  <svg
+    className={className}
+    viewBox="0 0 24 24"
+    fill="currentColor"
+    aria-hidden="true"
+  >
+    <path d="M19.586 0H4.414A4.414 4.414 0 0 0 0 4.414v15.172A4.414 4.414 0 0 0 4.414 24h15.172A4.414 4.414 0 0 0 24 19.586V4.414A4.414 4.414 0 0 0 19.586 0zM8.13 16.59H6.344V7.41h3.866c2.11 0 3.356 1.08 3.356 2.93 0 1.31-.635 2.19-1.723 2.58l2.067 3.67h-2.02l-1.84-3.34H8.13v3.34zm0-4.86h1.826c1.13 0 1.75-.47 1.75-1.36 0-.87-.62-1.34-1.75-1.34H8.13v2.7zm9.49 4.98c-2.01 0-3.32-1.39-3.32-3.53 0-2.16 1.32-3.6 3.29-3.6 1.86 0 3.05 1.28 3.05 3.28v.64h-4.6c.08 1.1.7 1.77 1.66 1.77.68 0 1.15-.28 1.42-.84h1.45c-.33 1.42-1.43 2.28-2.95 2.28zm-1.56-4.31h2.91c-.04-.92-.58-1.48-1.41-1.48-.84 0-1.39.56-1.5 1.48z" />
+  </svg>
 );
 
 interface ProfileProps {
@@ -97,11 +109,11 @@ export default function Profile({ author, social, features, researchInterests }:
             href: social.github,
             icon: Github,
         }] : []),
-        ...(social.linkedin ? [{
-            name: 'LinkedIn',
-            href: social.linkedin,
-            icon: Linkedin,
-        }] : []),
+        ...(social.researchgate ? [{
+            name: 'ResearchGate',
+            href: social.researchgate,
+            icon: ResearchGateIcon,
+}] : []),
     ];
 
     return (
