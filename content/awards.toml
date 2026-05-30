@@ -1,4 +1,10 @@
+type = "card"
+title = "Awards"
+description = "Honors and awards I have received."
+
 [[items]]
+title = "Example Award"
+subtitle = "Organization"
 date = "2025"
 content = "Description of the award."
 
