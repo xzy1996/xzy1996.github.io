@@ -9,9 +9,16 @@ export interface PublicationPageConfig extends BasePageConfig {
     source: string;
 }
 
+// export interface TextPageConfig extends BasePageConfig {
+//     type: 'text';
+//     source: string;
+// }
 export interface TextPageConfig extends BasePageConfig {
-    type: 'text';
-    source: string;
+  type: 'text';
+  source: string;
+  pdf?: string;
+  pdf_label?: string;
+  download_label?: string;
 }
 
 export interface CardItem {
