@@ -27,4 +27,8 @@ type = "list"
 title = "Recent Updates"
 source = "news.toml"
 
-<p class="mb-2 last:mb-0"><strong class="font-semibold text-primary">硕士</strong>　<a href="https://cdn.jsdelivr.net/gh/NTDXYG/image-hosting@master/20220524/%E5%9B%BD%E5%A5%96%E8%AF%81%E4%B9%A6.jpg" node="[object Object]" target="_blank" rel="noopener noreferrer" class="text-accent font-medium hover:underline">国家奖学金</a></p></div></div><div class="bg-white dark:bg-neutral-900 p-4 rounded-xl shadow-sm border border-neutral-200 dark:border-neutral-800 hover:shadow-lg transition-all duration-200 hover:scale-[1.01]" style="opacity:0;transform:translateY(20px)"><div class="flex justify-between items-start mb-2"><h3 class="text-lg font-semibold text-primary">学科竞赛</h3><span class="text-sm text-neutral-500 font-medium bg-neutral-100 dark:bg-neutral-800 px-2 py-1 rounded">2019–2021</span></div><div class="text-sm text-neutral-600 dark:text-neutral-500 leading-relaxed"><p class="mb-2 last:mb-0"><strong class="font-semibold text-primary">2021</strong>　挑战杯「黑科技」<a href="https://cdn.jsdelivr.net/gh/NTDXYG/image-hosting@master/20220524/%E6%8C%91%E6%88%98%E6%9D%AF-%E5%9B%BD%E8%B5%9B.jpg" node="[object Object]" target="_blank" rel="noopener noreferrer" class="text-accent font-medium hover:underline">国三</a> <a href="https://cdn.jsdelivr.net/gh/NTDXYG/image-hosting@master/20220524/%E6%8C%91%E6%88%98%E6%9D%AF-%E7%9C%81%E8%B5%9B.jpg" node="[object Object]" target="_blank" rel="noopener noreferrer" class="text-accent font-medium hover:underline">省一</a></p>
+[[sections]]
+id = "items"
+type = "list"
+title = "Awards"
+source = "awards.toml"
