@@ -29,6 +29,6 @@ source = "news.toml"
 
 [[sections]]
 id = "items"
-type = "card"
+type = "list"
 title = "Awards"
 source = "awards.toml"
