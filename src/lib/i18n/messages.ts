@@ -68,7 +68,7 @@ const en: LocaleMessages = {
     location: 'Location',
     workAddress: 'Work Address',
     click: 'Click',
-    googleMap: 'Google Map',
+    googleMap: 'Amap',
     send: 'Send',
     sendEmail: 'Send Email',
     researchInterests: 'Research Interests',
