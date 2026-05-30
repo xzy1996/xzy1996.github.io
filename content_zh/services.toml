@@ -1,9 +1,71 @@
 type = "card"
 title = "学术服务"
-description = "专业服务与社区参与。"
+description = "专业服务与学术共同体参与。"
 
 [[items]]
-title = "审稿人"
-subtitle = "某期刊"
-date = "2024"
-content = "参与审阅论文。"
+title = "IEEE"
+subtitle = "受邀审稿人"
+date = "2022年至今"
+content = """
+**中科院1区** | IEEE Transactions on Information Forensics & Security (TIFS)  
+**中科院1区** | IEEE Transactions on Industrial Informatics (TII)  
+**中科院1区** | IEEE Transactions on Industrial Electronics (TIE)  
+**中科院1区** | IEEE/ASME Transactions on Mechatronics (TMECH)  
+**中科院1区** | IEEE Transactions on Cybernetics (TCYB)  
+**中科院1区** | IEEE Transactions on Intelligent Transportation Systems (TITS)  
+**中科院2区** | IEEE Transactions on Automation Science and Engineering (TASE)  
+**中科院2区** | IEEE Transactions on Vehicular Technology (TVT)  
+**中科院2区** | IEEE Transactions on Instrumentation and Measurement (TIM)  
+**中科院1区** | IEEE Internet of Things Journal (IoTJ)  
+**中科院2区** | IEEE Sensors Journal  
+**中科院4区** | IEEE Sensors Letters  
+**中科院3区** | IEEE Journal of Selected Areas in Sensors
+"""
+
+[[items]]
+title = "Elsevier"
+subtitle = "受邀审稿人"
+date = "2022年至今"
+content = """
+**中科院2区** | Measurement
+"""
+
+[[items]]
+title = "IOP"
+subtitle = "受邀审稿人"
+date = "2022年至今"
+content = """
+**中科院3区** | Measurement Science and Technology
+"""
+
+[[items]]
+title = "Wiley"
+subtitle = "受邀审稿人"
+date = "2022年至今"
+content = """
+**中科院3区** | Navigation-Journal of the Institute of Navigation
+"""
+
+[[items]]
+title = "Springer Nature"
+subtitle = "受邀审稿人"
+date = "2022年至今"
+content = """
+**中科院3区** | Scientific Reports
+"""
+
+[[items]]
+title = "Taylor and Francis"
+subtitle = "受邀审稿人"
+date = "2022年至今"
+content = """
+**中科院4区** | Ships and Offshore Structures
+"""
+
+[[items]]
+title = "De Gruyter"
+subtitle = "受邀审稿人"
+date = "2022年至今"
+content = """
+**中科院4区** | Journal of Nonlinear, Complex and Data Science
+"""
