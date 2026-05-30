@@ -1,0 +1,27 @@
+type = "card"
+title = "Awards"
+description = "Honors and awards I have received."
+
+[[items]]
+title = "Outstanding Graduate of Anhui Province"
+subtitle = "Department of Education of Anhui Province"
+date = "2019"
+content = "Awarded for outstanding academic performance, conduct, and overall excellence during undergraduate study."
+
+[[items]]
+title = "First-Class Freshman Scholarship"
+subtitle = "National University of Defense Technology"
+date = "2022"
+content = "Awarded to incoming students with outstanding academic records and strong potential for graduate study."
+
+[[items]]
+title = "IOP Trusted Reviewer Status"
+subtitle = "IOP Publishing"
+date = "2024"
+content = "Awarded in recognition of demonstrated peer review competence and consistently useful reviewer reports for IOP Publishing journals."
+
+[[items]]
+title = "University Outstanding Scholarship"
+subtitle = "National University of Defense Technology"
+date = "2025"
+content = "Awarded for excellent academic performance and research achievements at the National University of Defense Technology."."
