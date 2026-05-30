@@ -15,13 +15,13 @@ date = "2022"
 content = "Awarded to incoming students with outstanding academic records and strong potential for graduate study."
 
 [[items]]
-title = "University Outstanding Scholarship"
-subtitle = "National University of Defense Technology"
-date = "2025"
-content = "Awarded for excellent academic performance and research achievements at the National University of Defense Technology."."
-
-[[items]]
 title = "IOP Trusted Reviewer Status"
 subtitle = "IOP Publishing"
 date = "2024"
 content = "Awarded in recognition of demonstrated peer review competence and consistently useful reviewer reports for IOP Publishing journals."
+
+[[items]]
+title = "University Outstanding Scholarship"
+subtitle = "National University of Defense Technology"
+date = "2025"
+content = "Awarded for excellent academic performance and research achievements at the National University of Defense Technology."."
