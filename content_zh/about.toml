@@ -3,9 +3,9 @@ title = "关于我"
 
 [profile]
 research_interests = [
-  "计算物理",
-  "数学原理",
-  "定理证明"
+  "组合导航技术",
+  "惯性导航技术",
+  "激光多普勒测速技术"
 ]
 
 [[sections]]
@@ -24,5 +24,5 @@ limit = 5
 [[sections]]
 id = "news"
 type = "list"
-title = "动态"
+title = "近一年动态"
 source = "news.toml"
