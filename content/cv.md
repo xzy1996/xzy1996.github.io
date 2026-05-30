@@ -4,7 +4,7 @@
 - Research focus: Mathematical Principles of Natural Philosophy
 - Supervisor: Prof. Advisor One and Dr. Advisor Two
 
-**The University of Example**, BSc in Natural Science, *2021 - 2025*
+**Anhui University of Technology**, BSc in Optoelectronic Information Science and Engineering, *2015 - 2019*
 - Graduated with First Class Honours
 
 ## Experience
