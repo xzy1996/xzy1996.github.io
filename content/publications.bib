@@ -9,11 +9,46 @@
   pages = {113425},
   issn = {0952-1976},
   langid = {english},
-  preview={EAAI2026.png},
+  % preview={EAAI2026.png},
   abstract = {Achieving reliable and precise vehicle localization is crucial for modern autonomous systems, particularly in Global Navigation Satellite Systems (GNSS)-denied environments where low-cost Micro-Electro-Mechanical Systems (MEMS) Inertial Measurement Units (IMUs) suffer from rapid error accumulation. This paper proposes a deep learning-aided Laser Doppler Velocimeter-Inertial Measurement Unit fusion approach for robust vehicle localization by integrating two symmetrically mounted dual-beam Laser Doppler Velocimeters (LDVs) with a MEMS IMU. Two specialized Long Short-Term Memory (LSTM) networks are employed to regress vehicle yaw velocity and lateral velocity by fusing LDV and IMU outputs. To improve robustness, an LDV outlier handling strategy and an LSTM prediction reliability detection method are developed to mitigate the influence of abnormal sensor measurements and unreliable network outputs. The LDV-derived velocities and LSTM-predicted yaw and lateral velocities are fused with MEMS IMU data using a Lie group-based Kalman filter. Experimental results from vehicle tests demonstrate that the proposed method significantly reduces positioning errors under prolonged GNSS-denied conditions and outperforms existing LDV-based integration methods.},
   description={A deep learning-aided dual-beam LDV and MEMS IMU fusion framework for robust vehicle localization in GNSS-denied environments using LSTM-based velocity prediction, outlier handling, reliability detection, and Lie group-based Kalman filtering.},
   keywords={MEMS IMU, Dual-beam Laser Doppler Velocimeter, Long Short-Term Memory Network, Yaw Velocity, Vehicle Localization, GNSS-denied Environments},
   doi = {10.1016/j.engappai.2025.113425}
+}
+
+@article{Xiang2025Faulttolerant,
+  title = {A Fault-Tolerant Sins/Dual {{2D-LDV}} Tightly Coupled Integration Scheme for Autonomous Vehicle Navigation},
+  author = {Xiang, Zhiyi and Wang, Qi and Jin, Shilong and Nie, Xiaoming and Zhou, Jian},
+  year = 2025,
+  month = oct,
+  journal = {Scientific Reports},
+  volume = {15},
+  number = {1},
+  pages = {35671},
+  issn = {2045-2322},
+  langid = {english},
+  publisher = {Nature Publishing Group},
+  doi = {10.1038/s41598-025-19574-7},
+  abstract = {Strapdown inertial navigation systems (SINS) integrated with two-dimensional laser Doppler velocimeters (2D-LDVs) provide a promising autonomous navigation solution for land vehicles in GNSS-denied environments. However, vehicle sideslip and outliers in 2D-LDV measurements can significantly degrade navigation performance. This paper proposes a fault-tolerant SINS/Dual-2D-LDV tightly coupled integration scheme, in which two 2D-LDVs are integrated with SINS to construct a redundant measurement model using raw LDV measurements and the vehicle lateral zero-velocity constraint. A Local Outlier Factor (LOF)-based fault detection method is introduced to identify both 2D-LDV measurement outliers and violations of the zero-velocity constraint. Furthermore, an adaptive filter is designed to dynamically adjust the filter gain according to the LOF value, thereby mitigating the influence of anomalies on the integrated navigation solution. The effectiveness and robustness of the proposed method are validated through two long-distance vehicle experiments. Experimental results show that the proposed scheme achieves superior horizontal and vertical positioning accuracy compared with traditional methods, while the LOF-based fault detection method demonstrates higher sensitivity and effectiveness than the conventional residual chi-squared detection method.},
+  description={A fault-tolerant tightly coupled SINS/Dual-2D-LDV integration scheme for robust autonomous vehicle navigation in GNSS-denied environments.},
+  keywords={Autonomous Navigation, SINS/Dual-2D-LDV Tightly Coupled Integration, Local Outlier Factor, Adaptive Filter},
+  copyright = {2025 The Author(s)}
+}
+
+@article{Xiang2025Further,
+  selected={true},
+  title = {Further Application of Pitch Independent Laser Doppler Velocimeter in Land Vehicle Autonomous Navigation},
+  author = {Xiang, Zhiyi and Wang, Qi and Huang, Rong and Jin, Shilong and Nie, Xiaoming and Zhou, Jian},
+  year = 2025,
+  month = mar,
+  journal = {IEEE Transactions on Vehicular Technology},
+  volume = {74},
+  number = {7},
+  pages = {1--13},
+  issn = {0018-9545},
+  langid = {english},
+  doi = {10.1109/TVT.2025.3546606},
+  copyright = {https://ieeexplore.ieee.org/Xplorehelp/downloads/license-information/IEEE.html}
 }
 
 @inproceedings{smith2024constructive,
