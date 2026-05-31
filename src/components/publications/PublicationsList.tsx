@@ -9,7 +9,8 @@ import {
     CalendarIcon,
     BookOpenIcon,
     ClipboardDocumentIcon,
-    DocumentTextIcon
+    DocumentTextIcon,
+    TagIcon
 } from '@heroicons/react/24/outline';
 import { Publication } from '@/types/publication';
 import { PublicationPageConfig } from '@/types/page';
@@ -25,39 +26,79 @@ interface PublicationsListProps {
 
 export default function PublicationsList({ config, publications, embedded = false }: PublicationsListProps) {
     const messages = useMessages();
+
     const [searchQuery, setSearchQuery] = useState('');
     const [selectedYear, setSelectedYear] = useState<number | 'all'>('all');
     const [selectedType, setSelectedType] = useState<string | 'all'>('all');
+    const [selectedTag, setSelectedTag] = useState<string | 'all'>('all');
     const [showFilters, setShowFilters] = useState(false);
     const [expandedBibtexId, setExpandedBibtexId] = useState<string | null>(null);
     const [expandedAbstractId, setExpandedAbstractId] = useState<string | null>(null);
 
-    // Extract unique years and types for filters
+    // Extract unique years for filters
     const years = useMemo(() => {
         const uniqueYears = Array.from(new Set(publications.map(p => p.year)));
         return uniqueYears.sort((a, b) => b - a);
     }, [publications]);
 
+    // Extract unique types for filters
     const types = useMemo(() => {
         const uniqueTypes = Array.from(new Set(publications.map(p => p.type)));
         return uniqueTypes.sort();
     }, [publications]);
 
+    // Extract unique tags from BibTeX keywords
+    const allTags = useMemo(() => {
+        const preferredOrder = [
+            'SCI',
+            'EI',
+            '中科院-Q1',
+            '中科院-Q2',
+            '中科院-Q3',
+            '中科院-Q4',
+            'CAS Q1',
+            'CAS Q2',
+            'CAS Q3',
+            'CAS Q4',
+            'TOP',
+        ];
+
+        const existingTags = new Set(
+            publications.flatMap((p) => p.tags || [])
+        );
+
+        const orderedTags = preferredOrder.filter((tag) => existingTags.has(tag));
+
+        const remainingTags = Array.from(existingTags)
+            .filter((tag) => !preferredOrder.includes(tag))
+            .sort((a, b) => a.localeCompare(b));
+
+        return [...orderedTags, ...remainingTags];
+    }, [publications]);
+
     // Filter publications
     const filteredPublications = useMemo(() => {
         return publications.filter(pub => {
+            const query = searchQuery.toLowerCase();
+
             const matchesSearch =
-                pub.title.toLowerCase().includes(searchQuery.toLowerCase()) ||
-                pub.authors.some(author => author.name.toLowerCase().includes(searchQuery.toLowerCase())) ||
-                pub.journal?.toLowerCase().includes(searchQuery.toLowerCase()) ||
-                pub.conference?.toLowerCase().includes(searchQuery.toLowerCase());
+                pub.title.toLowerCase().includes(query) ||
+                pub.authors.some(author => author.name.toLowerCase().includes(query)) ||
+                pub.journal?.toLowerCase().includes(query) ||
+                pub.conference?.toLowerCase().includes(query);
 
-            const matchesYear = selectedYear === 'all' || pub.year === selectedYear;
-            const matchesType = selectedType === 'all' || pub.type === selectedType;
+            const matchesYear =
+                selectedYear === 'all' || pub.year === selectedYear;
 
-            return matchesSearch && matchesYear && matchesType;
+            const matchesType =
+                selectedType === 'all' || pub.type === selectedType;
+
+            const matchesTag =
+                selectedTag === 'all' || (pub.tags || []).includes(selectedTag);
+
+            return matchesSearch && matchesYear && matchesType && matchesTag;
         });
-    }, [publications, searchQuery, selectedYear, selectedType]);
+    }, [publications, searchQuery, selectedYear, selectedType, selectedTag]);
 
     return (
         <motion.div
@@ -66,7 +107,10 @@ export default function PublicationsList({ config, publications, embedded = fals
             transition={{ duration: 0.6, delay: 0.4 }}
         >
             <div className="mb-8">
-                <h1 className={`${embedded ? "text-2xl" : "text-4xl"} font-serif font-bold text-primary mb-4`}>{config.title}</h1>
+                <h1 className={`${embedded ? "text-2xl" : "text-4xl"} font-serif font-bold text-primary mb-4`}>
+                    {config.title}
+                </h1>
+
                 {config.description && (
                     <p className={`${embedded ? "text-base" : "text-lg"} text-neutral-600 dark:text-neutral-500 max-w-2xl`}>
                         {config.description}
@@ -76,10 +120,10 @@ export default function PublicationsList({ config, publications, embedded = fals
 
             {/* Search and Filter Controls */}
             <div className="mb-8 space-y-4">
-                {/* ... (keep existing controls) ... */}
                 <div className="flex flex-col sm:flex-row gap-4">
                     <div className="relative flex-grow">
                         <MagnifyingGlassIcon className="absolute left-3 top-1/2 transform -translate-y-1/2 h-5 w-5 text-neutral-400" />
+
                         <input
                             type="text"
                             placeholder={messages.publications.searchPlaceholder}
@@ -88,6 +132,7 @@ export default function PublicationsList({ config, publications, embedded = fals
                             className="w-full pl-10 pr-4 py-2 rounded-lg border border-neutral-200 dark:border-neutral-800 bg-white dark:bg-neutral-900 focus:ring-2 focus:ring-accent focus:border-transparent transition-all duration-200"
                         />
                     </div>
+
                     <button
                         onClick={() => setShowFilters(!showFilters)}
                         className={cn(
@@ -110,24 +155,24 @@ export default function PublicationsList({ config, publications, embedded = fals
                             exit={{ opacity: 0, height: 0 }}
                             className="overflow-hidden"
                         >
-                            <div className="p-4 bg-neutral-50 dark:bg-neutral-800/50 rounded-lg border border-neutral-200 dark:border-neutral-800 flex flex-wrap gap-6">
+                            <div className="p-4 bg-neutral-50 dark:bg-neutral-800/50 rounded-lg border border-neutral-200 dark:border-neutral-800 flex flex-wrap gap-8">
                                 {/* Year Filter */}
                                 <div className="space-y-2">
-                                    <label className="text-sm font-medium text-neutral-700 dark:text-neutral-300 flex items-center">
-                                        <CalendarIcon className="h-4 w-4 mr-1" /> {messages.publications.year}
-                                    </label>
+                                    <div className="text-sm font-medium text-neutral-700 dark:text-neutral-300 flex items-center gap-2">
+                                        <CalendarIcon className="h-4 w-4" />
+                                        <span>{messages.publications.year}</span>
+
+                                        {selectedYear !== 'all' && (
+                                            <button
+                                                onClick={() => setSelectedYear('all')}
+                                                className="text-xs font-medium text-accent hover:underline"
+                                            >
+                                                Clear
+                                            </button>
+                                        )}
+                                    </div>
+
                                     <div className="flex flex-wrap gap-2">
-                                        <button
-                                            onClick={() => setSelectedYear('all')}
-                                            className={cn(
-                                                "px-3 py-1 text-xs rounded-full transition-colors",
-                                                selectedYear === 'all'
-                                                    ? "bg-accent text-white"
-                                                    : "bg-white dark:bg-neutral-800 text-neutral-600 hover:bg-neutral-100 dark:hover:bg-neutral-700"
-                                            )}
-                                        >
-                                            {messages.common.all}
-                                        </button>
                                         {years.map(year => (
                                             <button
                                                 key={year}
@@ -147,21 +192,21 @@ export default function PublicationsList({ config, publications, embedded = fals
 
                                 {/* Type Filter */}
                                 <div className="space-y-2">
-                                    <label className="text-sm font-medium text-neutral-700 dark:text-neutral-300 flex items-center">
-                                        <BookOpenIcon className="h-4 w-4 mr-1" /> {messages.publications.type}
-                                    </label>
+                                    <div className="text-sm font-medium text-neutral-700 dark:text-neutral-300 flex items-center gap-2">
+                                        <BookOpenIcon className="h-4 w-4" />
+                                        <span>{messages.publications.type}</span>
+
+                                        {selectedType !== 'all' && (
+                                            <button
+                                                onClick={() => setSelectedType('all')}
+                                                className="text-xs font-medium text-accent hover:underline"
+                                            >
+                                                Clear
+                                            </button>
+                                        )}
+                                    </div>
+
                                     <div className="flex flex-wrap gap-2">
-                                        <button
-                                            onClick={() => setSelectedType('all')}
-                                            className={cn(
-                                                "px-3 py-1 text-xs rounded-full transition-colors",
-                                                selectedType === 'all'
-                                                    ? "bg-accent text-white"
-                                                    : "bg-white dark:bg-neutral-800 text-neutral-600 hover:bg-neutral-100 dark:hover:bg-neutral-700"
-                                            )}
-                                        >
-                                            {messages.common.all}
-                                        </button>
                                         {types.map(type => (
                                             <button
                                                 key={type}
@@ -178,11 +223,55 @@ export default function PublicationsList({ config, publications, embedded = fals
                                         ))}
                                     </div>
                                 </div>
+
+                                {/* Tag Filter */}
+                                {allTags.length > 0 && (
+                                    <div className="space-y-2">
+                                        <div className="text-sm font-medium text-neutral-700 dark:text-neutral-300 flex items-center gap-2">
+                                            <TagIcon className="h-4 w-4" />
+                                            <span>Tags</span>
+
+                                            {selectedTag !== 'all' && (
+                                                <button
+                                                    onClick={() => setSelectedTag('all')}
+                                                    className="text-xs font-medium text-accent hover:underline"
+                                                >
+                                                    Clear
+                                                </button>
+                                            )}
+                                        </div>
+
+                                        <div className="flex flex-wrap gap-2">
+                                            {allTags.map(tag => (
+                                                <button
+                                                    key={tag}
+                                                    onClick={() => setSelectedTag(tag)}
+                                                    className={cn(
+                                                        "px-3 py-1 text-xs rounded-full transition-colors",
+                                                        selectedTag === tag
+                                                            ? "bg-accent text-white"
+                                                            : "bg-white dark:bg-neutral-800 text-neutral-600 hover:bg-neutral-100 dark:hover:bg-neutral-700"
+                                                    )}
+                                                >
+                                                    {tag}
+                                                </button>
+                                            ))}
+                                        </div>
+                                    </div>
+                                )}
                             </div>
                         </motion.div>
                     )}
                 </AnimatePresence>
             </div>
+
+            <p className="mb-6 text-sm text-neutral-600 dark:text-neutral-400">
+                {messages.publications.searchPlaceholder.includes('搜索') ? '共找到' : 'Found'}{' '}
+                <span className="font-semibold text-accent">
+                    {filteredPublications.length}
+                </span>{' '}
+                {messages.publications.searchPlaceholder.includes('搜索') ? '篇论文。' : 'publication(s).'}
+            </p>
 
             {/* Publications Grid */}
             <div className="space-y-6">
@@ -213,23 +302,28 @@ export default function PublicationsList({ config, publications, embedded = fals
                                         </div>
                                     </div>
                                 )}
+
                                 <div className="flex-grow">
                                     <h3 className={`${embedded ? "text-lg" : "text-xl"} font-semibold text-primary mb-2 leading-tight`}>
                                         <FormattedBibTeXText nodes={pub.titleNodes} fallback={pub.title} />
                                     </h3>
+
                                     <p className={`${embedded ? "text-sm" : "text-base"} text-neutral-600 dark:text-neutral-400 mb-2`}>
                                         {pub.authors.map((author, idx) => (
                                             <span key={idx}>
                                                 <span className={`${author.isHighlighted ? 'font-semibold text-accent' : ''} ${author.isCoAuthor ? `underline underline-offset-4 ${author.isHighlighted ? 'decoration-accent' : 'decoration-neutral-400'}` : ''}`}>
                                                     {author.name}
                                                 </span>
+
                                                 {author.isCorresponding && (
                                                     <sup className={`ml-0 ${author.isHighlighted ? 'text-accent' : 'text-neutral-600 dark:text-neutral-400'}`}>†</sup>
                                                 )}
+
                                                 {idx < pub.authors.length - 1 && ', '}
                                             </span>
                                         ))}
                                     </p>
+
                                     <p className="text-sm font-medium text-neutral-800 dark:text-neutral-600 mb-3">
                                         {pub.journal || pub.conference} {pub.year}
                                     </p>
@@ -251,6 +345,7 @@ export default function PublicationsList({ config, publications, embedded = fals
                                                 DOI
                                             </a>
                                         )}
+
                                         {pub.code && (
                                             <a
                                                 href={pub.code}
@@ -261,6 +356,7 @@ export default function PublicationsList({ config, publications, embedded = fals
                                                 {messages.publications.code}
                                             </a>
                                         )}
+
                                         {pub.abstract && (
                                             <button
                                                 onClick={() => setExpandedAbstractId(expandedAbstractId === pub.id ? null : pub.id)}
@@ -275,6 +371,7 @@ export default function PublicationsList({ config, publications, embedded = fals
                                                 {messages.publications.abstract}
                                             </button>
                                         )}
+
                                         {pub.bibtex && (
                                             <button
                                                 onClick={() => setExpandedBibtexId(expandedBibtexId === pub.id ? null : pub.id)}
@@ -307,6 +404,7 @@ export default function PublicationsList({ config, publications, embedded = fals
                                                 </div>
                                             </motion.div>
                                         ) : null}
+
                                         {expandedBibtexId === pub.id && pub.bibtex ? (
                                             <motion.div
                                                 key="bibtex"
@@ -319,10 +417,10 @@ export default function PublicationsList({ config, publications, embedded = fals
                                                     <pre className="text-xs text-neutral-600 dark:text-neutral-500 overflow-x-auto whitespace-pre-wrap font-mono">
                                                         {pub.bibtex}
                                                     </pre>
+
                                                     <button
                                                         onClick={() => {
                                                             navigator.clipboard.writeText(pub.bibtex || '');
-                                                            // Optional: Show copied feedback
                                                         }}
                                                         className="absolute top-2 right-2 p-1.5 rounded-md bg-white dark:bg-neutral-700 text-neutral-500 hover:text-accent shadow-sm border border-neutral-200 dark:border-neutral-600 transition-colors"
                                                         title={messages.common.copyToClipboard}
