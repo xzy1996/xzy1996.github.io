@@ -150,10 +150,6 @@ export default function PublicationsList({ config, publications, embedded = fals
             '中科院-Q2',
             '中科院-Q3',
             '中科院-Q4',
-            'CAS Q1',
-            'CAS Q2',
-            'CAS Q3',
-            'CAS Q4',
             'TOP',
         ];
 
