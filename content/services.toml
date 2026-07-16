@@ -31,6 +31,15 @@ date = "2022–Present"
 content = """
 **CAS Q1** | Aerospace Science and Technology  
 **CAS Q2** | Measurement  
+**CAS Q3** | Advances in Space Research  
+"""
+
+[[items]]
+title = "Science China Press"
+subtitle = "Invited Reviewer"
+date = "2022–Present"
+content = """
+**CAS Q1** | Science China Technological Sciences  
 """
 
 [[items]]
