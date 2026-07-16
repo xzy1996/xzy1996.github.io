@@ -31,6 +31,15 @@ date = "2022年至今"
 content = """
 **中科院1区** | Aerospace Science and Technology  
 **中科院2区** | Measurement  
+**中科院3区** | Advances in Space Research  
+"""
+
+[[items]]
+title = "Science China Press"
+subtitle = "受邀审稿人"
+date = "2022年至今"
+content = """
+**中科院1区** | Science China Technological Sciences
 """
 
 [[items]]
