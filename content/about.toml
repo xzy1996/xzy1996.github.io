@@ -4,8 +4,9 @@ title = "About"
 [profile]
 research_interests = [
   "Vehicle-Mounted Laser Doppler Velocimetry",
+  "Inertial Navigation Technology",
   "Integrated Navigation Technology",
-  "Inertial Navigation Technology"
+  "Multi-Sensor Information Fusion"
 ]
 
 [[sections]]
