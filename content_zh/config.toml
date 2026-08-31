@@ -1,17 +1,17 @@
 [site]
 title = "向志毅"
-description = "国防科技大学博士生个人主页。"
-last_updated = "2026年5月30日"
+description = "湘潭大学自动化与电子信息学院讲师。"
+last_updated = "2026年8月30日"
 
 [author]
 name = "向志毅"
-title = "博士生"
-institution = "国防科技大学"
+title = "讲师"
+institution = "湘潭大学自动化与电子信息学院"
 
 [social]
-location = "长沙，中国"
+location = "湘潭，中国"
 location_details = [
-  "国防科技大学，长沙，中国"
+  "湘潭大学，湘潭，中国"
 ]
 
 [[navigation]]
