@@ -1,131 +1,93 @@
+## 任职经历
+
+### 湘潭大学
+
+**自动化与电子信息学院，讲师**  
+2026年至今
+
+- 从事通信、自动化、导航与多传感器信息融合领域的教学和科研工作。
+- 主要研究卫星导航拒止环境下地面车辆的高精度、高可靠自主导航技术。
+
 ## 教育背景
 
-**国防科技大学**，光学工程，博士，*2022.3 – 2026.6*  
-- 导师：金世龙、周健。
-- 荣誉：校优秀奖学金、校一等新生奖学金、院优秀学员、光电工程系优秀地方研究生。
+### 国防科技大学
 
-**国防科技大学**，光学工程，硕士，*2019.9 – 2021.12*  
-- 导师：周健。
+**光学工程，博士，2022.3 – 2026.6**
+
+- 培养单位：前沿交叉学科学院激光陀螺研究所
+- 导师：金世龙教授、周健副教授
+- 研究方向：激光多普勒测速、惯性导航、惯性基组合导航与多传感器信息融合
+- 博士学位论文：《车载MINS/LDV组合导航关键技术研究》
+- 荣誉：校优秀奖学金、校一等新生奖学金、院优秀学员、光电工程系优秀地方研究生
+
+### 国防科技大学
+
+**光学工程，硕士，2019.9 – 2021.12**
+
+- 培养单位：前沿交叉学科学院激光陀螺研究所
+- 导师：周健副教授
+- 研究方向：激光多普勒测速仪辅助捷联惯性导航
+- 硕士学位论文：《基于激光测速仪的惯导系统行进间初始对准技术研究》
 - 荣誉：光电工程系优秀地方研究生。
 
-**安徽工业大学**，光电信息科学与工程，本科，*2015.9 – 2019.6*  
-- 导师：赵光兴。
-- 专业排名：2/70。
-- 荣誉：国家励志奖学金 3 次、安徽省品学兼优毕业生、校一等奖学金 3 次、校三好学生 3 次。
+### 安徽工业大学
 
-## 研究兴趣
+**光电信息科学与工程，学士，2015.9 – 2019.6**
 
-- **高精度惯性基组合导航系统：** 研究高精度惯性导航系统与卫星导航系统、多普勒测速仪、里程计、激光多普勒测速仪等系统的组合导航方法，重点关注行进间初始对准、动态在线标定与鲁棒组合导航算法。
-- **低成本惯性基组合导航系统：** 研究低成本惯性导航系统与卫星导航系统、里程计、激光多普勒测速仪等系统的组合导航方法，重点关注误差抑制方法与组合导航策略。
-- **车载分布式激光多普勒测速仪系统：** 利用多个布设于车辆不同位置的激光多普勒测速仪实时获取车辆六自由度运动参数，研究系统结构设计、布局优化、标定方案及其自主导航应用。
+- 培养单位：数理科学与工程学院
+- 导师：赵光兴
+- 专业排名：2/70
+- 荣誉：国家励志奖学金、安徽省品学兼优毕业生、校一等奖学金、校三好学生
 
-## 论文发表
+## 研究方向
 
-### 第一作者论文
-
-- **Deep Learning-Aided Laser Doppler Velocimeter-Inertial Measurement Unit Fusion for Robust Vehicle Localization in Global Navigation Satellite Systems-Denied Environments**, *Engineering Applications of Artificial Intelligence*, 2026.  
-  中科院一区 TOP，IF 8.0。
-
-- **Further Application of Pitch Independent Laser Doppler Velocimeter in Land Vehicle Autonomous Navigation**, *IEEE Transactions on Vehicular Technology*, 2025.  
-  中科院二区 TOP，IF 7.1。
-
-- **A Fault-Tolerant SINS/Dual 2D-LDV Tightly Coupled Integration Scheme for Autonomous Vehicle Navigation**, *Scientific Reports*, 2025.  
-  中科院三区，IF 3.9。
-
-- **LSTM-Assisted SINS/2D-LDV Tightly Coupled Integration Approach Using Local Outlier Factor and Adaptive Filter**, *IEEE Transactions on Instrumentation and Measurement*, 2024.  
-  中科院二区 TOP，IF 5.9，ESI 高被引论文。
-
-- **Online Calibration Method for SINS/LDV Integrated Navigation System Based on Left Group Error Definition**, *Measurement Science and Technology*, 2024.  
-  中科院三区，IF 3.4。
-
-- **A Robust Online Calibration Method for SINS/LDV Integrated Navigation System Based on Position Observation**, *IEEE Sensors Journal*, 2024.  
-  中科院二区，IF 4.5。
-
-- **Online Calibration Method for Pitch-Independent Laser Doppler Velocimeter Based on Improved Integrated Navigation Model**, *IEEE Transactions on Instrumentation and Measurement*, 2023.  
-  中科院二区 TOP，IF 5.9。
-
-- **A SINS/GNSS/2D-LDV Integrated Navigation Scheme for Unmanned Ground Vehicles**, *Measurement Science and Technology*, 2023.  
-  中科院三区，IF 3.4。
-
-- **A Fast Robust In-Motion Alignment Method for Laser Doppler Velocimeter-Aided Strapdown Inertial Navigation System**, *IEEE Sensors Journal*, 2022.  
-  中科院二区，IF 4.5。
-
-- **In-Motion Initial Alignment Method for a Laser Doppler Velocimeter-Aided Strapdown Inertial Navigation System Based on an Adaptive Unscented Quaternion H-Infinite Filter**, *Measurement Science and Technology*, 2021.  
-  中科院三区，IF 3.4。
-
-- **Position Observation-Based Calibration Method for an LDV/SINS Integrated Navigation System**, *Applied Optics*, 2021.  
-  中科院四区，IF 1.7。
-
-### 投稿中论文
-
-- **Distributed Multi-LDV System for GNSS-Denied UGV Navigation: Robust Localization via Linear and Angular Velocity Fusion**, *IEEE Transactions on Industrial Electronics*, 2026.  
-  中科院一区 TOP，IF 7.2，Under Review。
-
-### 合作论文
-
-- **A Water Track Laser Doppler Velocimeter for Use in Underwater Navigation**, *Measurement Science and Technology*, 2024.
-- **Water Track Laser Doppler Velocimeter**, *Chinese Optics Letters*, 2023.
-- **用于导航定位的激光多普勒测速技术研究进展**，*红外与激光工程*, 2023.
-- **车载 SINS/1D-LDV 杆臂误差在线标定算法**，*国防科技大学学报*, 2025.
-- **Online Calibration Technology for a One-Dimensional Laser Doppler Velocimeter Based on a Strapdown Inertial Navigation System**, *Applied Optics*, 2022.
-
-## 专利
-
-### 已授权专利
-
-- 基于激光多普勒测速仪的惯导系统行进间初始对准方法。
-- 一种基于测量光路多重反射的相位调制双零差干涉仪。
-- 基于双激光多普勒测速仪和惯导系统组合导航方法及装置。
-- 基于二维 LDV 和惯导系统的容错组合导航方法及装置。
-
-### 申请中专利
-
-- 一种松耦合陆地组合导航方法、装置、计算机设备和介质。
-- 一种紧耦合陆地组合导航方法、装置、计算机设备和介质。
-- 二维多普勒测速仪的标定方法、装置、计算机设备和介质。
-- 基于位置观测的激光多普勒测速仪在线标定方法和装置。
-- 基于二维 LDV 和惯导系统的高精度组合导航方法及装置。
+- **车载激光多普勒测速：** 研究车载激光多普勒测速仪的系统建模、标定方法及其在车辆自主导航中的应用。
+- **惯性导航：** 研究不同精度等级捷联惯性导航系统的误差建模、标定与误差抑制方法。
+- **惯性基组合导航：** 研究惯性导航系统与卫星导航、里程计、激光多普勒测速仪及其他辅助传感器的深度组合与紧组合方法。
+- **多传感器信息融合：** 研究复杂环境下的异常值检测、自适应滤波、深度学习辅助导航与高可靠融合定位方法。
+- **分布式多激光多普勒测速系统：** 研究分布式激光多普勒测速系统的构型设计、系统标定及其在卫星导航拒止环境下的车辆自主导航应用。
 
 ## 科研项目
 
-- **国防科技大学研究生创新项目：** 基于数据驱动和精确测量模型的车载 SINS/LDV 组合导航技术研究。  
-  角色：负责人。
+### 国防科技大学研究生创新项目
 
-- 参与装备预先研究共用技术、军内科研项目、国防科技项目、学院自主科研项目、湖南省自然科学基金等多个与陆用定位定向、激光测速仪、高精度定位、光学速度传感器及组合导航相关的科研项目。
+**基于数据驱动与精确量测模型的车载SINS/LDV组合导航技术**
 
-## 实习经历
+- 项目角色：项目负责人
 
-**天翼物联科技有限公司**，项目实习，*2019.4 – 2019.7*  
-- 负责对接江南造船厂与极地中心，保障雪龙 2 号极地科考船综合信息网络系统的顺利安装，并参与现场工程管理。
-- 负责对雪龙 2 号极地科考船上安装的无线宽带、综合室分、Wi-Fi、融合通信等部分进行测试与记录。
+曾参与装备预先研究共用技术、军内科研项目、国防科技项目、学院自主科研项目、湖南省自然科学基金等多个与陆用定位定向、激光测速仪、高精度定位、光学速度传感器及组合导航相关的科研项目。
 
-## 技术能力
+## 代表性论文
 
-- **编程：** C、C++、Qt、MATLAB、Markdown、LaTeX。
-- **语言：** 普通话，英语 CET-6。
-- **科研能力：** 学术研究、文献阅读、算法实现、实验数据分析、学术论文撰写。
-- **兴趣爱好：** 徒步、乒乓球、跑步、电子竞技等。
+1. “Deep Learning-Aided Laser Doppler Velocimeter-Inertial Measurement Unit Fusion for Robust Vehicle Localization in GNSS-Denied Environments,” *Engineering Applications of Artificial Intelligence*, 2026.
+2. “Further Application of Pitch Independent Laser Doppler Velocimeter in Land Vehicle Autonomous Navigation,” *IEEE Transactions on Vehicular Technology*, 2025.
+3. “LSTM-Assisted SINS/2D-LDV Tightly Coupled Integration Approach Using Local Outlier Factor and Adaptive Filter,” *IEEE Transactions on Instrumentation and Measurement*, 2024.
+4. “A Robust Online Calibration Method for SINS/LDV Integrated Navigation System Based on Position Observation,” *IEEE Sensors Journal*, 2024.
+5. “Online Calibration Method for Pitch-Independent Laser Doppler Velocimeter Based on Improved Integrated Navigation Model,” *IEEE Transactions on Instrumentation and Measurement*, 2023.
+6. “A Fast Robust In-Motion Alignment Method for Laser Doppler Velocimeter-Aided Strapdown Inertial Navigation System,” *IEEE Sensors Journal*, 2022.
 
-## 荣誉奖励
+完整论文列表请参见[论文发表](/publications/)页面。
 
-- 国防科技大学校优秀奖学金。
-- 国防科技大学校一等新生奖学金。
-- 国防科技大学前沿交叉学科学院优秀学员。
-- 光电工程系优秀地方研究生。
-- 国家励志奖学金 3 次。
-- 安徽省品学兼优毕业生。
-- 校一等奖学金 3 次。
-- 校三好学生 3 次。
+## 代表性专利
+
+1. 基于激光多普勒测速仪的惯导系统行进间初始对准方法。
+2. 一种基于测量光路多重反射的相位调制双零差干涉仪。
+3. 基于双激光多普勒测速仪和惯导系统组合导航方法及装置。
+4. 基于二维 LDV 和惯导系统的容错组合导航方法及装置。
+
+## 主要荣誉
+
+- 国防科技大学优秀学员奖学金，2025年
+- 国防科技大学一等新生奖学金，2022年
+- 安徽省普通高等学校优秀毕业生，2019年
+- 国家励志奖学金，2016-2018年
+
+## 专业技能
+
+- **科研编程与数据处理：** MATLAB、C、C++
+- **软件开发：** Qt
+- **科研写作与排版：** LaTeX、Markdown
 
 ## 学术服务
 
-### 期刊审稿
-
-- IEEE Transactions on Cybernetics、IEEE Transactions on Industrial Informatics、IEEE Transactions on Industrial Electronics、IEEE/ASME Transactions on Mechatronics、IEEE Transactions on Intelligent Transportation Systems、IEEE Transactions on Automation Science and Engineering、IEEE Transactions on Vehicular Technology、IEEE Transactions on Instrumentation and Measurement、IEEE Internet of Things Journal、IEEE Sensors Journal、IEEE Journal of Selected Areas in Sensors 等 SCI 学术期刊独立审稿人。
-- IEEE Transactions on Aerospace and Electronic Systems 等 SCI 学术期刊共同审稿人。
-- IOP Trusted Reviewer，2024。
-
-### 学术会议与志愿服务
-
-- “首届光学工程前沿交叉科学大会”优秀志愿者。
-- “首届前沿交叉科技论坛”优秀志愿者。
+审稿及其他学术服务情况请参见[学术服务](/services/)页面。
