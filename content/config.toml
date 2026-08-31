@@ -1,23 +1,23 @@
 [site]
 title = "Zhiyi Xiang"
-description = "PhD student at the National University of Defense Technology."
+description = "Lecturer at the School of Automation and Electronic Information, Xiangtan University."
 favicon = "/favicon-32x32"
 last_updated = "May 30, 2026"
 
 [author]
 name = "Zhiyi Xiang"
-title = "PhD Student"
-institution = "National University of Defense Technology"
+title = "Lecturer"
+institution = "School of Automation and Electronic Information, Xiangtan University"
 avatar = "/bio.jpg"
 
 [social]
 # Contact information (leave blank or delete to hide)
 
 email = "xiangzhiyi0816@gmail.com"
-location = "Changsha, China"
-location_url = "https://www.amap.com/search?query=国防科技大学"
+location = "Xiangtan, China"
+location_url = "https://www.amap.com/search?query=湘潭大学"
 location_details = [
-  "National University of Defense Technology, Changsha, China"
+  "Xiangtan University, Xiangtan, China"
 ]
 google_scholar = "https://scholar.google.com/citations?user=cytaLGEAAAAJ&hl=zh-CN"
 orcid = "https://orcid.org/0000-0003-1766-2409"
